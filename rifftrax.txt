@@ -1,0 +1,1486 @@
+1 x 1   Plan 9 From Outer Space (Mike Nelson Solo)	2006-01-01	  
+1 x 2   Night of the Living Dead (Mike Nelson solo)	2006-01-18	  
+1 x 3   Road House	2006-07-21	  
+1 x 4   The Fifth Element	2006-08-06	  
+1 x 5   Star Trek V: The Final Frontier	2006-08-18	  
+1 x 6   Cocktail	2006-08-29	  
+1 x 7   xXx	2006-09-06	  
+1 x 8   Crossroads	2006-09-15	  
+1 x 9   X-Men	2006-09-22	  
+1 x 10	Top Gun	2006-09-29	  
+1 x 11	Point Break	2006-10-10	  
+1 x 12	Halloween	2006-10-19	  
+1 x 13	The Matrix	2006-10-25	  
+1 x 14	Star Wars Episode I: The Phantom Menace	2006-11-01	  
+1 x 15	The Grudge	2006-11-10	  
+1 x 16	The Lord of the Rings: The Fellowship of the Ring	2006-11-21	  
+1 x 17	The Island of Dr. Moreau	2006-12-01	  
+1 x 18	Firewall	2006-12-08	  
+1 x 19	Nestor the Long-Eared Christmas Donkey	2006-12-19	  
+1 x 20	Reign of Fire	2006-12-21	  
+1 x 21	Daredevil	2007-01-18	  
+1 x 22	Battlefield Earth	2007-01-28	  
+1 x 23	Troll 2	2007-02-02	  
+1 x 24	Star Trek VI: The Undiscovered Country	2007-02-09	  
+1 x 25	Over the Top	2007-02-16	  
+1 x 26	Aeon Flux	2007-02-23	  
+1 x 27	The Wicker Man	2007-03-02	  
+1 x 28	Terminator 3	2007-03-16	  
+1 x 29	Lost: Pilot (1)	2007-03-30	  
+1 x 29	Lost: Pilot (2)	2007-03-30	  
+1 x 30	Star Wars Episode II: Attack of the Clones	2007-04-06	  
+1 x 31	Willy Wonka and the Chocolate Factory	2007-04-13	  
+1 x 32	Casino Royale	2007-04-30	  
+1 x 33	Eragon	2007-05-11	  
+1 x 34	Glitter	2007-05-21	  
+1 x 35	Predator	2007-06-01	  
+1 x 36	Grey's Anatomy: Pilot (1)	2007-06-11	  
+1 x 36	Grey's Anatomy: Pilot (2)	2007-06-11	  
+1 x 37	Fantastic Four	2007-06-22	  
+1 x 38	Star Trek VII: Generations	2007-07-02	  
+1 x 39	300	2007-07-31	  
+1 x 40	The Bourne Identity	2007-08-07	  
+1 x 41	Independence Day	2007-08-14	  
+1 x 42	Heroes: Pilot (1)	2007-09-04	  
+1 x 42	Heroes: Pilot (2)	2007-09-04	  
+1 x 43	Star Wars Episode III: Revenge of the Sith	2007-09-25	  
+1 x 44	Raiders of the Lost Ark	2007-10-02	  
+1 x 45	Spider-Man	2007-10-09	  
+1 x 46	Next	2007-10-16	  
+1 x 47	Missile to the Moon	2007-10-30	  
+1 x 48	Transformers	2007-11-20	  
+1 x 49	Harry Potter and the Sorcerer's Stone	2007-11-27	  
+Special	Swing Parade: Alternate Audio Track (Mike Nelson Solo)	2007-12-03	
+1 x 50	Star Wars Holiday Special	2007-12-10	  
+1 x 51	Fantastic Four: Rise of the Silver Surfer	2007-12-18	  
+1 x 52	Plan 9 From Outer Space: Three Riffer Edition	2008-01-22	  
+1 x 53	Batman and Robin	2008-01-29	  
+1 x 54	Jurassic Park	2008-02-05	  
+1 x 55	The Matrix Reloaded	2008-02-19	  
+1 x 56	Beowulf	2008-03-18	  
+1 x 57	Spider-Man 3	2008-04-08	  
+1 x 58	Cloverfield	2008-04-22	  
+1 x 59	I Am Legend	2008-04-29	  
+1 x 60	The Lord of the Rings: The Two Towers	2008-05-23	  
+1 x 61	The Sixth Sense	2008-06-25	  
+1 x 62	Harry Potter and the Chamber of Secrets	2008-08-05	  
+1 x 63	Memento	2008-08-12	  
+1 x 64	Ocean's Eleven	2008-08-26	  
+1 x 65	Pirates of the Carribean: Curse of the Black Pearl	2008-09-09	  
+1 x 66	Iron Man	2008-10-14	  
+1 x 67	The Happening	2008-10-21	  
+1 x 68	Indiana Jones and the Kingdom of the Crystal Skull	2008-10-28	  
+1 x 69	X-2: X-Men United	2008-11-12	  
+1 x 70	The Incredible Hulk: The Final Round	2008-12-05	  
+1 x 71	The Dark Knight	2008-12-09	  
+1 x 72	Harry Potter and the Prisoner of Azkaban	2008-12-16	  
+1 x 73	Star Wars Episode IV: A New Hope	2008-12-30	  
+1 x 74	Reefer Madness: Three Riffer Edition	2009-01-20	  
+1 x 75	Little Shop of Horrors: Three Riffer Edition	2009-01-28	  
+1 x 76	House on Haunted Hill: Three Riffer Edition	2009-02-04	  
+1 x 77	Night of the Living Dead: Three Riffer Edition	2009-02-10	  
+1 x 78	Missile to the Moon: Three Riffer Edition	2009-02-17	  
+1 x 79	Jaws	2009-02-24	  
+1 x 80	Carnival of Souls: Three Riffer Edition	2009-03-03	  
+1 x 81	Swing Parade: Three Riffer Edition	2009-03-10	  
+1 x 82	Star Wars Episode V: The Empire Strikes Back	2009-04-14	  
+1 x 83	Twilight	2009-04-21	  
+1 x 84	Planet of Dinosaurs	2009-05-20	  
+1 x 85	Casablanca	2009-06-02	  
+1 x 86	Voodoo Man	2009-06-10	  
+1 x 87	The Room	2009-06-18	  
+1 x 88	Red Dawn	2009-07-02	  
+1 x 89	Fast and Furious	2009-08-06	  
+1 x 90	The Matrix: Revolutions	2009-09-29	  
+1 x 91	Dragon Wars: D-War	2009-10-05	  
+1 x 92	Transformers: Revenge of the Fallen	2009-10-22	  
+1 x 93	Titanic	2009-10-29	  
+1 x 94	Star Trek	2009-11-19	  
+1 x 95	Maniac	2009-11-25	  
+1 x 96	Drag Me to Hell	2009-12-01	  
+Special	Rifftrax Live: Plan 9 From Outer Space	2009-12-10	
+1 x 97	Star Wars Episode VI: Return of the Jedi	2010-01-22	  
+1 x 98	Terminator Salvation	2010-02-04	  
+1 x 99	Paranormal Activity	2010-02-11	  
+Special	Rifftrax Live: Christmas Shorts-stravaganza!	2010-03-17	
+1 x 100	Twilight: New Moon	2010-03-19	  
+1 x 101	Avatar	2010-04-22	  
+1 x 102	Harry Potter and the Goblet of Fire	2010-05-14	  
+1 x 103	The Lord of the Rings: The Return of the King	2010-06-22	  
+1 x 104	The Boy in the Plastic Bubble	2010-07-30	  
+1 x 105	High School Musical	2010-09-25	  
+1 x 106	Clash of the Titans	2010-10-22	  
+1 x 107	The Last Airbender	2010-11-16	  
+1 x 108	Twilight: Eclipse	2010-12-03	  
+1 x 109	Santa and the Ice Cream Bunny	2010-12-17	  
+1 x 110	Inception	2011-02-01	  
+1 x 111	Harry Potter and the Order of the Phoenix	2011-02-15	  
+1 x 112	Birdemic	2011-02-22	  
+1 x 113	Highlander	2011-03-15	  
+1 x 114	The Karate Kid Part III	2011-03-22	  
+1 x 115	Star Trek II: The Wrath of Khan	2011-04-12	  
+Special	Rifftrax Live: Reefer Madness	2011-05-17	
+Special	Rifftrax Live: House on Haunted Hill	2011-05-17	
+1 x 116	The Crater Lake Monster	2011-05-25	  
+1 x 117	The Devil's Hand	2011-06-01	  
+1 x 118	X-Men: The Last Stand	2011-06-21	  
+1 x 119	The Galaxy Invader	2011-08-05	  
+1 x 120	Abraxas: Guardian of the Universe	2011-08-30	  
+1 x 121	Thor	2011-09-27	  
+1 x 122	Laser Mission	2011-10-04	  
+1 x 123	Harry Potter and the Half-Blood Prince	2011-10-18	  
+1 x 124	The Sons of Hercules: Land of Darkness	2011-11-01	  
+1 x 125	Warriors of the Wasteland	2011-11-15	  
+1 x 126	Buffalo Rider	2011-11-22	  
+1 x 127	Transformers: Dark of the Moon	2011-11-29	  
+1 x 128	Christmas with Rifftrax featuring Magic Christmas Tree	2011-12-20	  
+1 x 129	Captain America: The First Avenger	2012-01-10	  
+1 x 130	Ghosthouse	2012-01-20	  
+1 x 131	Rise of the Planet of the Apes	2012-02-14	  
+1 x 132	Twilight: Breaking Dawn - Part 1	2012-02-23	  
+1 x 133	Frankenstein Island	2012-03-20	  
+1 x 134	Mesa of Lost Women	2012-04-03	  
+1 x 135	Curse of Bigfoot	2012-04-17	  
+Special	Rifftrax Live: Jack The Giant Killer	2012-05-01	
+1 x 136	Jack the Giant Killer	2012-05-01	  
+1 x 137	Mutant!	2012-05-08	  
+1 x 138	Prisoners of the Lost Universe	2012-05-22	  
+1 x 139	Brainiac	2012-07-02	  
+1 x 140	Bloody Pit of Horror	2012-07-13	  
+1 x 141	Future Force	2012-07-27	  
+1 x 142	Neutron the Atomic Superman vs. the Death Robots	2012-08-07	  
+1 x 143	The Revenge of Doctor X	2012-08-21	  
+1 x 144	The Bermuda Triangle	2012-09-06	  
+1 x 145	The Hunger Games	2012-09-27	  
+1 x 146	The Guy from Harlem	2012-10-04	  
+1 x 147	Future Zone	2012-10-11	  
+1 x 148	Nightmare at Noon	2012-10-23	  
+1 x 149	Tourist Trap	2012-11-21	  
+1 x 150	Christmas with RiffTrax: Santa's Village of Madness	2012-12-21	  
+1 x 151	The Avengers	2012-12-27	  
+1 x 152	McBain	2013-01-25	  
+Special	Rifftrax Live: Birdemic	2013-01-31	
+1 x 153	When a Stranger Calls Back	2013-02-07	  
+1 x 154	Cool as Ice	2013-02-19	  
+1 x 155	Twilight: Breaking Dawn - Part 2	2013-03-14	  
+1 x 156	Breaker! Breaker!	2013-03-21	  
+1 x 157	Viva Knievel!	2013-05-04	  
+1 x 158	The Apple	2013-04-13	  
+1 x 159	Kingdom of the Spiders	2013-04-23	  
+1 x 160	Psycho II	2013-05-07	  
+1 x 161	Dr. Who & the Daleks	2013-05-23	  
+Special	Night of the Shorts: SF Sketchfest 2013	2013-05-31	
+1 x 162	Firehead	2013-06-13	  
+1 x 163	Fangs of the Living Dead	2013-06-26	  
+1 x 164	Silent Rage	2013-09-06	  
+Special	Rifftrax Live: Manos the Hands of Fate	2012-08-16	
+1 x 165	Starship Troopers	2013-10-04	  
+1 x 166	Supersonic Man	2013-10-11	  
+Special	Rifftrax Live: Night of the Living Dead	2013-10-24	
+1 x 167	Harry Potter and the Deathly Hallows: Part 1	2013-10-31	  
+1 x 168	Swamp of the Ravens	2013-11-20	  
+Special	Rifftrax Live: Santa Claus Conquers the Martians	2013-12-05	
+1 x 169	Dr. Who: Daleks - Invasion Earth: 2150 A.D.	2013-12-13	  
+1 x 170	Treasure of the Amazon	2013-12-27	  
+1 x 171	The Wizard of Oz	2014-01-17	  
+1 x 172	Night of the Lepus	2014-02-07	  
+1 x 173	Cyborg Cop 2	2014-03-07	  
+1 x 174	Super Mario Bros.	2014-03-21	  
+1 x 175	Terror at Tenkiller	2014-03-28	  
+1 x 176	Fist of Fury	2014-04-11	  
+1 x 177	Sisters of Death	2014-04-25	  
+1 x 178	Attack of the Puppet People	2014-05-01	  
+1 x 179	City of the Dead	2014-05-16	  
+1 x 180	Zindy the Swamp Boy	2014-05-30	  
+1 x 181	The Bride and the Beast	2014-06-06	  
+1 x 182	Jack the Giant Killer	2014-06-20	  
+1 x 183	Yambao	2014-06-27	  
+1 x 184	The Last Slumber Party	2014-07-18	  
+1 x 185	The Beast of the Yellow Night	2014-08-08	  
+1 x 186	Dinosaurus!	2014-08-28	  
+1 x 187	The Sword and the Sorcerer	2014-09-12	  
+1 x 188	R.O.T.O.R.	2014-10-03	  
+1 x 189	Hawk the Slayer	2014-10-17	  
+1 x 190	Godzilla	2014-10-24	  
+1 x 191	Fun in Balloonland	2014-11-24	  
+1 x 192	Wonder Women	2015-01-02	  
+1 x 193	The Dark Power	2015-01-23	  
+1 x 194	Kiss of the Tarantula	2015-01-30	  
+1 x 195	Alien Outlaw	2015-02-06	  
+1 x 196	Teenage Mutant Ninja Turtles (2014)	2015-02-27	  
+Special	Night of the Shorts: SF Sketchfest 2015	2015-03-06	
+1 x 197	Anaconda	2015-03-14	  
+1 x 198	The Hideous Sun Demon	2015-03-20	  
+1 x 199	The Incredible 2-Headed Transplant	2015-04-10	  
+1 x 200	Radical Jack	2015-04-24	  
+1 x 201	To Catch a Yeti	2015-05-01	  
+1 x 202	Rock 'n' Roll Nightmare	2015-06-05	  
+1 x 203	Fever Lake	2015-06-27	  
+1 x 204	Stone Cold	2015-07-09	  
+1 x 205	Julie and Jack	2015-07-17	  
+1 x 206	Megaforce	2015-07-31	  
+1 x 207	The Magic Sword	2015-08-14	  
+1 x 208	Rollergator	2015-08-21	  
+1 x 209	Manos: The Hands of Fate	2015-09-11	  
+1 x 210	Death Promise	2015-09-25	  
+1 x 211	No Retreat, No Surrender	2015-10-16	  
+1 x 212	The Night Dracula Saved the World	2015-10-29	  
+1 x 213	The Wizard	2015-11-20	  
+1 x 214	I Believe in Santa Claus	2015-12-22	  
+1 x 215	Icebreaker	2016-01-22	  
+1 x 216	Harry Potter and the Deathly Hallows: Part 2	2016-03-08	  
+1 x 218	Wizards of the Lost Kingdom	2016-03-11	  
+1 x 219	Samurai Cop	2016-03-25	  
+Special	Night of the Shorts IV: SF Sketchfest 2016	2016-04-06	
+1 x 220	Cyber Tracker	2016-04-08	  
+1 x 221	Star Wars Episode VII: The Force Awakens	2016-04-29	  
+1 x 222	Arachnia	2016-05-13	  
+1 x 223	Hillbillys in a Haunted House	2016-05-20	  
+1 x 224	Game of Thrones: Season 1 Episode 1	2016-06-02	  
+1 x 225	The Last Shark	2016-06-17	  
+1 x 226	Attack From Space	2016-07-22	  
+1 x 227	Ruby	2016-08-19	  
+1 x 228	Road House: Three-Riffer Edition	2016-09-09	  
+1 x 229	Astro-Zombies	2016-10-11	  
+1 x 230	The Walking Dead: Season 1 Episode 1	2016-10-21	  
+1 x 231	Daredevil: Season 1 Episode 1	2016-10-28	  
+1 x 232	Honor and Glory	2016-11-04	  
+1 x 233	Jurassic World	2016-11-18	  
+1 x 234	Deadly Prey	2016-12-02	  
+1 x 235	Superargo and the Faceless Giants	2016-12-09	  
+1 x 236	Christmas Circus with Whizzo the Clown!	2016-12-22	  
+1 x 237	The Wonderful Land of Oz	2017-02-03	  
+1 x 238	Replica	2017-02-10	  
+1 x 239	Retro Puppet Master	2017-02-24	  
+1 x 240	Ator, The Fighting Eagle	2017-03-10	  
+1 x 241	Day of the Animals	2017-03-24	  
+1 x 242	Grizzly	2017-04-21	  
+1 x 243	Star Wars: Rogue One	2017-05-04	  
+1 x 244	Star Games	2017-05-19	  
+1 x 245	Missile X: The Neutron Bomb Incident	2017-06-02	  
+1 x 246	Uninvited	2017-06-09	  
+1 x 247	The Little Unicorn	2017-07-14	  
+1 x 248	Game of Thrones: Season 3 Episode 9	2017-07-28	  
+1 x 249	Final Justice	2017-08-04	  
+1 x 250	Mothra	2017-08-18	  
+1 x 251	Miami Connection	2017-09-01	  
+2 x 1   Dark Water	2008-05-08	  
+2 x 2   Star Trek New Voyages: To Serve All My Days	2008-05-28	  
+2 x 3   The X-Files: Fight the Future	2008-06-03	  
+2 x 4   House of Wax	2008-05-28	  
+2 x 5   Star Trek New Voyages: World Enough and Time	2008-05-08	  
+2 x 6   Saw	2008-05-13	  
+2 x 7   Alien	2008-06-10	  
+2 x 8   Spider-Man 2	2008-09-05	  
+2 x 9   The Day After Tomorrow	2008-09-16	  
+2 x 10	Dirty Dancing	2008-09-23	  
+2 x 11	Die Hard	2009-04-10	  
+2 x 12	Tron	2009-05-26	  
+2 x 13	Ghost	2009-06-25	  
+2 x 14	The Running Man	2009-07-09	  
+2 x 15	Batman Forever	2009-09-30	  
+2 x 16	Planet of the Apes	2009-09-01	  
+2 x 17	Footloose	2009-11-05	  
+2 x 18	Ghost Rider	2009-11-13	  
+2 x 19	Poltergeist	2010-04-15	  
+2 x 20	Armageddon	2010-06-11	  
+2 x 21	The Lost Boys	2010-07-04	  
+2 x 22	Jaws 3	2010-10-08	  
+2 x 23	Jurassic Park III	2011-04-15	  
+2 x 24	Sherlock Holmes	2011-12-13	  
+2 x 25	Flatliners	2012-07-19	  
+2 x 26	The Expendables	2012-09-13	  
+2 x 27	Horror Express	2013-03-28	  
+2 x 28	King of Kong Island	2014-01-29	  
+2 x 29	Scared to Death	2014-08-04	  
+2 x 30	Warning from Space	2015-05-15	  
+2 x 31	Dreamscape	2015-06-19	  
+2 x 32	Flight to Mars	2016-03-18	  
+2 x 33	Cat-Women of the Moon	2016-04-15	  
+2 x 34	Gravity	2016-10-06	  
+2 x 35	The Amazing Mr. X	2017-01-06	  
+2 x 36	Angel's Revenge	2017-04-07	  
+2 x 37	Hangar 18	2017-06-23	 
+2 x 38	Deadly Instincts	2017-09-08	  
+3 x 0	****************Dupe**Home of the future**Dupe ******************	2016-11-18	  
+3 x 0	****************Dup**The Home of the Future**Dup ******************	2016-10-21	  
+3 x 0	****************Dup**Measure Metric**Dup ******************	2016-10-21	  
+3 x 0	****************Dupe**Truck Song**Dupe ******************	2016-11-28	  
+Special	Signal 30 (Excerpt)	2007-12-16	
+3 x 1   A Visit to Santa	2007-12-20	  
+3 x 2   Act Your Age	2008-01-01	  
+3 x 3   Beginning Responsibility: Lunchroom Manners	2008-02-22	  
+3 x 4   The Terrible Truth	2008-02-28	  
+3 x 5   Why Doesn't Cathy Eat Breakfast / Petaluma Chicken	2008-03-07	  
+3 x 6   Coffeehouse Rendezvous	2008-03-14	  
+3 x 7   Safety - Harm Hides at Home	2008-03-28	  
+3 x 8   Are You Popular	2008-04-08	  
+3 x 9   If Mirrors Could Speak	2008-04-11	  
+3 x 10	One Got Fat	2008-04-18	  
+3 x 11	Drugs are Like That	2008-06-17	  
+3 x 12	Down and Out	2008-07-01	  
+3 x 13	Patriotism	2008-07-03	  
+3 x 14	Skipper Learns a Lesson	2008-07-08	  
+3 x 15	Buying Food	2008-07-11	  
+3 x 16	Right or Wrong?	2008-07-15	  
+3 x 17	The Trouble With Women	2008-07-18	  
+3 x 18	It Must Be the Neighbors	2008-07-22	  
+3 x 19	Each Child Is Different	2008-07-25	  
+3 x 20	Kitty Cleans Up	2008-07-29	  
+3 x 21	Why Vandalism	2008-07-31	  
+3 x 22	Aqua Frolics	2008-09-30	  
+3 x 23	Good Health Practices	2008-10-24	  
+3 x 24	Good Eating Habits	2008-10-31	  
+3 x 25	Know For Sure	2008-11-21	  
+3 x 26	Christmas Toyshop	2008-12-22	  
+3 x 27	Shy Guy	2009-01-06	  
+3 x 28	Self Conscious Guy	2009-01-16	  
+3 x 29	Overcoming Fear	2009-01-28	  
+3 x 30	Playing Together	2009-02-27	  
+3 x 31	How Much Affection?	2009-03-20	  
+3 x 32	Your Chance to Live	2009-03-24	  
+3 x 33	Understanding Your Ideals	2009-03-28	  
+3 x 34	As We Like It	2009-04-01	  
+3 x 35	Going Steady	2009-04-03	  
+3 x 36	Carnivorous Plants	2009-04-07	  
+3 x 37	You and Your Family	2009-04-17	  
+3 x 38	Primary Safety: In the School Building	2009-04-24	  
+3 x 39	Damaged Goods	2009-04-29	  
+3 x 40	Cooking Terms	2009-05-01	  
+3 x 41	What About Juvenile Delinquency?	2009-05-05	  
+3 x 42	Snap Out of It	2009-05-08	  
+3 x 43	Toward Emotional Maturity	2009-05-12	  
+3 x 44	Alcohol Trigger Films	2009-05-22	  
+3 x 45	Back to School With Joan Miller	2009-07-14	  
+3 x 46	Highway Mania	2009-07-17	  
+3 x 47	The Bill of Rights in Action	2009-07-21	  
+3 x 48	Shake Hands with Danger	2009-07-23	  
+3 x 49	Wing Claw and Fang!	2009-07-28	  
+3 x 50	The Tale of Moose Baby	2009-08-11	  
+3 x 51	Flying Stewardess	2009-08-25	  
+3 x 52	Constance Bennett's Daily Beauty Rituals	2009-08-28	  
+3 x 53	Teenagers On Trial	2009-09-04	  
+3 x 54	Cork - Crashes and Curiosities	2008-09-08	  
+3 x 55	What It Means To Be An American (Part 1)	2009-09-11	  
+3 x 56	The Case of Tommy Tucker (Part 1)	2009-09-15	  
+3 x 57	What It Means To Be An American (Part 2)	2009-09-18	  
+3 x 58	The Case of Tommy Tucker (Part 2)	2009-09-22	  
+3 x 59	Women In Blue	2009-09-25	  
+3 x 60	A Circus Wakes Up	2009-10-13	  
+3 x 61	American Thrift (Part 1)	2009-10-16	  
+3 x 62	Call It Free (Part 1)	2009-11-10	  
+3 x 63	Christmas Rhapsody	2009-12-18	  
+3 x 64	Christmas Dream	2009-12-22	  
+3 x 65	Rudolph the Red Nosed Reindeer	2009-12-22	  
+3 x 66	The Night Before Christmas	2009-12-24	  
+3 x 67	Three Magic Words	2009-12-30	  
+3 x 68	Parade of Aquatic Champions	2010-01-05	  
+3 x 69	American Thrift (Part 2)	2010-02-26	  
+3 x 70	Molly Grows Up	2010-03-02	  
+3 x 71	Call it Free (Part 2)	2010-03-05	  
+3 x 72	Story of a Teenage Drug Addict	2010-03-08	  
+3 x 73	Following Instructions Game	2010-03-23	  
+3 x 74	Little Lost Scent	2010-03-26	  
+3 x 75	An Aquarium in Action	2010-03-30	  
+3 x 76	Mr. Moto Takes A Walk	2010-04-02	  
+3 x 77	Seat Belts: The Life Saving Habit	2010-04-06	  
+3 x 78	Drawing for Beginners: The Rectangle	2010-04-27	  
+3 x 79	Kittens: Birth and Growth	2010-04-30	  
+3 x 80	Reading: Who needs it?	2010-05-04	  
+3 x 81	Families: Food and Eating	2010-05-07	  
+3 x 82	Summer is an Adventure	2010-05-11	  
+3 x 83	Beginning Responsibility: Taking Care Of Your Own Things	2010-05-18	  
+3 x 84	Reading Growth: Basic Skills	2010-05-21	  
+3 x 85	Geography of Your Community	2010-05-28	  
+3 x 86	The Parts of Speech	2010-06-01	  
+3 x 87	Watch Out For My Plant	2010-06-04	  
+3 x 88	Values: The Right Thing To Do	2010-06-08	  
+3 x 89	Family Teamwork	2010-06-15	  
+3 x 90	Pearl of the Orient	2010-06-18	  
+3 x 91	Individual Differences	2010-06-25	  
+3 x 92	Whatever The Weather	2010-06-29	  
+3 x 93	Building Better Paragraphs	2010-07-02	  
+3 x 94	Are People All The Same?	2010-07-06	  
+3 x 95	Mealtime Manners and Health	2010-07-09	  
+3 x 96	Things Are Different Now	2010-07-23	  
+3 x 97	William's Doll	2010-08-06	  
+3 x 98	Decisions Decisions	2010-08-10	  
+3 x 99	Library World	2010-08-13	  
+3 x 100	The Fad Diet Circus	2010-08-16	  
+3 x 101	More Dangerous Than Dynamite	2010-08-19	  
+3 x 102	Alone At Home	2010-08-31	  
+3 x 103	Telephone For Help	2010-09-07	  
+3 x 104	What If We Had a Fire?	2010-09-14	  
+3 x 105	Seven Little Ducks	2010-09-22	  
+3 x 106	Cops: Who Needs Them?	2010-09-28	  
+3 x 107	You Can Do Something About Acne	2010-10-05	  
+3 x 108	Safe Living at School	2010-10-12	  
+3 x 109	Behavior of Domestic Pigs in a semi-Natural Pig-Park	2010-10-15	  
+3 x 110	Monkey See, Monkey Do: Verbs	2010-10-19	  
+3 x 111	Don't Be A Bloody Idiot	2010-10-25	  
+3 x 112	Magical Disappearing Money	2010-11-05	  
+3 x 113	Values: Understanding Ourselves	2010-11-08	  
+3 x 114	The Calendar: How to Use It	2010-11-23	  
+3 x 115	Unto The Least Of These	2010-12-07	  
+3 x 116	Santa Claus' Punch and Judy	2010-12-18	  
+3 x 117	Courtesy A Good Eggsample	2010-12-28	  
+3 x 118	The Being On Time Game	2011-01-04	  
+3 x 119	Basic Job Skills: Handling Daily Problems	2011-01-11	  
+3 x 120	Courtesy Counts A Lot!	2011-01-18	  
+3 x 121	Remember Me	2011-02-08	  
+3 x 122	Walking to School	2011-02-11	  
+3 x 123	Improve Your Pronunciation	2011-02-18	  
+3 x 124	Basic Job Skills: Dealing With Customers	2011-03-01	  
+3 x 125	The ABC of Walking Wisely	2011-03-11	  
+3 x 126	Vision in the Forest	2011-03-29	  
+3 x 127	A Badger's Bad Day	2011-04-19	  
+3 x 128	Families: Earning and Spending	2011-04-22	  
+3 x 129	Kangaroos	2011-04-26	  
+3 x 130	The Red Hen	2011-04-27	  
+3 x 131	Christmas Shorts-Stravaganza! Live	2009-12-01	  
+3 x 132	Tooth Truth with Harv and Marv	2011-05-03	  
+3 x 133	County Fair	2011-05-06	  
+3 x 134	Prickly the Porcupine	2011-05-10	  
+3 x 135	The Mysterious Message	2011-06-07	  
+3 x 136	Beginning Responsibility: Being a Good Sport	2011-06-15	  
+3 x 137	Animal Homes	2011-06-28	  
+3 x 138	Beginning Responsibilites: Getting Ready For School	2011-07-01	  
+3 x 139	Adventures of a Chipmunk Family	2011-07-05	  
+3 x 140	Billy's Helicopter Ride	2011-07-07	  
+3 x 141	Paper and I	2011-07-13	  
+3 x 142	Aesop's Sound Fables - Frozen Frolics	2011-07-15	  
+3 x 143	At Your Fingertips: Grasses	2011-07-23	  
+3 x 144	At Your Fingertips: Boxes	2011-07-26	  
+3 x 145	Borrowed Power	2011-07-29	  
+3 x 146	Eggs to Market	2011-08-12	  
+3 x 147	A Boy of Mexico: Juan and his Donkey	2011-08-16	  
+3 x 148	One Turkey, Two Turkey	2011-08-20	  
+3 x 149	What is Nothing?	2011-08-17	  
+3 x 150	We Discover the Dictionary	2011-08-23	  
+3 x 151	Feelings: I'm Feeling Alone	2011-09-06	  
+3 x 152	Setting Up A Room	2011-09-09	  
+3 x 153	Join Hands, Let Go!	2011-09-13	  
+3 x 154	The Creeps Machine	2011-09-16	  
+3 x 155	Boy of India: Rama and His Elephant	2011-09-20	  
+3 x 156	What Are Letters For?	2011-09-23	  
+3 x 157	Making Sense with Sentences	2011-10-11	  
+3 x 158	Jobs in Cosmetology	2011-10-25	  
+3 x 159	What Makes Things Float	2011-10-28	  
+3 x 160	Let's Pretend: Magic Sneakers	2011-11-08	  
+3 x 161	Beginning Responsibility: Broken Bookshop	2011-11-11	  
+3 x 162	Corky the Crow	2011-12-07	  
+3 x 163	Reading From Now On	2012-01-03	  
+3 x 164	Friends	2012-01-24	  
+3 x 165	The Lemonade Stand: What's Fair?	2012-01-31	  
+3 x 166	The Clean Club	2012-02-02	  
+3 x 167	David and Hazel: A Story in Communication	2012-02-16	  
+3 x 168	Sailing a Toy Boat	2012-02-28	  
+3 x 169	Alcohol	2012-03-01	  
+3 x 170	Cooks and Chefs	2012-03-08	  
+3 x 171	Danger Keep Out!	2012-03-13	  
+3 x 172	The Fish That Nearly Drowned	2012-04-10	  
+3 x 173	Nutrition: The All-American Meal	2012-04-24	  
+3 x 174	The Toymaker	2012-04-26	  
+3 x 175	Dinosaurs: The Age of the Terrible Lizard	2012-05-03	  
+3 x 176	Farm Babies and Their Mothers	2012-06-15	  
+3 x 177	Jimmy of the Safety Patrol	2012-06-30	  
+3 x 178	Joy Ride	2012-07-06	  
+3 x 179	Love That Car!	2012-07-18	  
+3 x 180	The Hare & The Tortoise	2012-10-30	  
+3 x 181	Get That Job	2012-11-28	  
+3 x 182	Perc! Pop! Sprinkle!	2012-11-29	  
+3 x 183	Choking: To Save a Life	2012-12-07	  
+3 x 184	Tic Toc Time Clock	2012-12-11	  
+Special	What's Happening	2012-12-21	
+3 x 185	Say No to Strangers	2013-01-29	  
+3 x 186	Live and Learn	2013-02-05	  
+3 x 187	Safety with Animals	2013-02-12	  
+3 x 188	Ten Long Minutes	2013-02-28	  
+3 x 189	Ghost Rider	2013-03-05	  
+3 x 190	The Other Fellow's Feelings	2013-04-10	  
+3 x 191	The Day I Died	2013-04-12	  
+3 x 192	Story-telling: Can You Tell It In Order?	2013-04-30	  
+3 x 193	Maintaining Classroom Discipline	2013-05-15	  
+3 x 194	Rescueman	2013-05-17	  
+3 x 195	Goodbye, Weeds	2013-06-06	  
+3 x 196	When Should Grown-ups Stop Fights?	2013-06-20	  
+3 x 197	Batman and Robin: Batman Takes Over	2013-07-16	  
+3 x 198	You're The Judge	2013-07-23	  
+3 x 199	Batman and Robin: Tunnel of Terror	2013-08-07	  
+Special	Kickstarter: Mr. B. Natural	2013-08-31	
+Special	Kickstarter: A Trip To The Moon	2013-08-31	
+Special	Kickstarter: Norman Krasner	2013-08-31	
+3 x 200	Batman and Robin: Robin's Wild Ride	2013-09-13	  
+Special	Rifftrax Special: 90s Cyber Thrillers	2013-09-27	
+Special	Best of Rifftrax: Villains	2013-09-27	
+3 x 201	Batman and Robin: Batman Trapped!	2013-10-18	  
+3 x 202	Norman Krasner	2013-11-06	  
+3 x 203	Norman Checks In	2013-11-06	  
+3 x 204	Welcome Back, Norman	2013-11-06	  
+Special	What's Happening: Musical Edition!	2013-12-05	
+3 x 205	Batman and Robin: Robin Rescues Batman	2013-12-06	  
+3 x 206	Mr. B Natural	2013-12-20	  
+3 x 207	A Trip To The Moon	2013-12-20	  
+3 x 208	Batman and Robin: Target Robin	2014-01-03	  
+3 x 209	Batman and Robin: The Fatal Blast	2014-01-10	  
+3 x 210	Safety Woman - In Danger Out of Doors	2014-01-13	  
+3 x 211	Batman and Robin: Robin Meets the Wizard!	2014-02-11	  
+3 x 212	This Is Hormel	2014-02-28	  
+3 x 213	Batman and Robin: The Wizard Strikes Back	2014-03-14	  
+3 x 214	Norman Gives a Speech	2014-04-18	  
+3 x 215	How To Keep A Job	2014-04-22	  
+3 x 216	Health: Your Posture	2014-04-29	  
+3 x 217	Writing Better Social Letters	2014-05-09	  
+3 x 218	At Your Fingertips: Cylinders	2014-05-19	  
+3 x 219	Fashion Horizons	2014-06-02	  
+3 x 220	Batman and Robin: Batman's Last Chance	2014-06-09	  
+3 x 221	Color It Clean	2014-06-13	  
+3 x 222	Batman and Robin: Robin's Ruse	2014-06-24	  
+3 x 223	Read On! from Left to Right	2014-06-30	  
+3 x 224	Clean and Neat with Harv and Marv	2014-07-07	  
+3 x 225	Willy Whistle	2014-07-24	  
+3 x 226	Batman and Robin: Robin Rides The Wind	2014-08-12	  
+3 x 227	The Flying Saucer Mystery	2014-08-22	  
+3 x 229	Batman and Robin: The Wizard's Challenge	2014-09-05	  
+3 x 230	Batman and Robin: Batman Vs. The Wizard	2014-09-16	  
+3 x 231	Batman and Robin: Batman Victorious	2014-09-19	  
+3 x 232	Rediscovery: Puppets	2014-09-26	  
+3 x 233	A Case of Spring Fever	2014-10-24	  
+3 x 234	Warty, The Toad	2014-11-07	  
+3 x 235	At Your Fingertips: Play Clay	2014-11-21	  
+3 x 236	Frustrating Fours and Fascinating Fives	2014-12-12	  
+3 x 237	Zlateh the Goat	2014-12-23	  
+3 x 238	Santa and the Fairy Snow Queen	2014-12-30	  
+3 x 239	Duck and Cover	2015-01-03	  
+3 x 240	Behave, Bernard!	2015-01-09	  
+3 x 241	Getting Angry	2015-01-27	  
+3 x 242	Study Skills: Verbal Communication Made Easy	2015-03-11	  
+3 x 243	Starting School	2015-03-27	  
+3 x 244	With an All-Star Cast	2015-04-17	  
+3 x 245	The Myths of Shoplifting	2015-05-19	  
+3 x 246	Life In the Suburbs	2015-06-12	  
+3 x 247	A Word to the Wives	2015-06-30	  
+3 x 248	Animal Antics	2015-07-14	  
+3 x 249	The Relaxed Wife	2015-07-23	  
+3 x 250	Consuming Women	2015-07-23	  
+3 x 251	Naturally a Girl	2015-08-07	  
+3 x 252	Cindy Goes to a Party	2015-09-15	  
+3 x 253	The Prom It's a Pleasure	2015-09-28	  
+3 x 254	Oh, Boy! Babies!	2015-10-09	  
+3 x 255	The Snob	2015-10-20	  
+3 x 256	Halloween Party	2015-10-27	  
+3 x 257	Measuring Man!	2015-11-06	  
+3 x 258	Dining Together	2015-11-25	  
+3 x 259	A Day of Thanksgiving	2015-11-25	  
+3 x 260	Have a Mary Jo Christmas and a Bridget New Year	2015-12-11	  
+3 x 261	Marriage is a Partnership	2016-01-08	  
+3 x 262	Shapes We Live With	2016-01-15	  
+3 x 263	William From Georgia to Harlem	2016-01-26	  
+3 x 264	The Litter Monster	2016-01-29	  
+3 x 265	Phoebe	2016-03-15	  
+3 x 266	The Tiny Astronaut	2016-03-30	  
+3 x 267	Social Acceptability	2016-04-12	  
+3 x 268	The Value of Teamwork	2016-04-22	  
+3 x 269	On Guard - Bunco!	2016-06-07	  
+3 x 270	Don't Get Angry	2016-06-24	  
+3 x 271	The Magic Shelf	2016-07-06	  
+3 x 272	Duties of a Secretary	2016-07-15	  
+3 x 273	Girls are Better than Ever	2016-07-29	  
+3 x 274	Safety As We Play	2016-08-05	  
+3 x 275	Flash That Smile	2016-09-15	  
+3 x 276	Nobody Tells Me What to Do!	2016-09-30	  
+3 x 277	At Your Fingertips: Sugar and Spice	2016-10-07	  
+3 x 278	The Second Annual Bridget and Mary Jo Christmas Special!	2016-12-16	  
+3 x 279	Katy	2017-01-04	  
+3 x 280	Measure Metric	2017-01-13	  
+3 x 281	The Maturing Woman	2017-03-03	  
+3 x 282	Busy Bodies	2017-03-29	  
+3 x 283	Allen is my Brother	2017-04-28	  
+3 x 284	American Look	2017-05-10	  
+3 x 285	Truck Song	2017-07-19	 
+3 x 286	Soapy the Germ Fighter	2017-07-26	  
+3 x 287	Farm Family in Summer	2017-08-30	  
+4 x 1   Hor-RIFF-ic: Friday the 13th	2008-11-06	 
+4 x 2   Hor-RIFF-ic: Children of the Corn	2008-12-22	 
+4 x 3   Hor-RIFF-ic: Sleepaway Camp	2009-11-23	 
+4 x 4   Hor-RIFF-ic: My Bloody Valentine (1981)	2009-02-11	 
+4 x 5   Hor-RIFF-ic: Friday the 13th Part 2	2009-03-09	 
+4 x 6   Hor-RIFF-ic: Stephen King's IT - Part Two	2009-04-03	 
+4 x 7   Hor-RIFF-ic: The Monster Squad	2009-05-13	 
+4 x 8   Hor-RIFF-ic: Tremors	2012-06-08	  
+4 x 9   Hor-RIFF-ic: Friday the 13th Part III	2009-07-29	 
+4 x 10	Hor-RIFF-ic: The Stuff	2009-09-11	 
+4 x 11	Hor-RIFF-ic: Poltergeist	2009-09-30	 
+4 x 12	Hor-RIFF-ic: Halloween III	2009-10-27	  
+4 x 13	Hor-RIFF-ic: Gremlins	2010-04-08	 
+4 x 14	Hor-RIFF-ic: Friday the 13th Part IV	2010-04-12	 
+4 x 15	Hor-RIFF-ic: Frogs	2010-06-14	  
+4 x 16	That Guy with the Glasses: Lion King	2008-11-07	 
+4 x 17	The One Man Band: Mortal Kombat	2009-03-06	 
+4 x 18	Cinester Theater: Stephen King's IT - Part One	2009-04-04	 
+4 x 19	Cinester Theater: Stephen King's IT - Part Two	2009-04-04	 
+4 x 20	QuipTracks: Lady in the Water	2009-04-08	 
+4 x 21	The One Man Band: Hackers	2009-04-20	 
+4 x 22	MoleMan Riffs: Wanted	2009-05-02	 
+4 x 23	Cinester Theater: Teenage Mutant Ninja Turtles	2009-05-05	 
+4 x 24	Cinester Theater: Total Recall	2009-09-12	  
+4 x 25	Cinester Theater: The Nightmare Before Christmas	2009-11-05	 
+4 x 26	Riff Raff Theater: Speed	2008-07-22	 
+4 x 27	Josh Way: Cindy Goes to a Party	2010-05-20	 
+4 x 28	Josh Way: Dating Dos and Don'ts	2008-08-04	 
+4 x 29	Josh Way: The Fun of Being Thoughtful	2008-08-04	 
+4 x 30	ICWXP: Lady Frankenstein	2008-08-04	 
+4 x 31	Fun With Flicks: The Wasp Woman	2008-09-30	 
+4 x 32	The Atomic Soda Pop Gang: Duck and Cover	2008-09-30	 
+4 x 33	Riff Raff Theater: TRON	2008-11-05	 
+4 x 34	Insert Coin(s) to Continue: Gamera: Guardian of the Universe	2008-11-06	 
+4 x 35	Tom and Jon: The Core	2008-11-05	 
+4 x 36	Stargate Atlantis - Rising	2008-11-06	 
+4 x 37	Insert Coin(s) to Continue: The Lincoln Project	2008-11-06	 
+4 x 38	Ice on Mars: Star Trek Voyager: Caretaker	2008-11-06	  
+4 x 39	Ronin Fox Trax: Star Trek The Motion Picture	2008-11-06	 
+4 x 40	PS Productions: Star Trek II: The Wrath of Khan	2008-11-06	 
+4 x 41	Impostor	2008-11-06	 
+4 x 42	Logan Jones: Anaconda	2008-11-06	 
+4 x 43	The Movie Asylum: Halloween II	2008-11-06	 
+4 x 44	OneWallCinema: Dragnet: Episode 18: The Big Seventeen	2008-11-06	 
+4 x 45	Fun With Flicks: Voyage to the Prehistoric Planet	2008-11-06	 
+4 x 46	Some Guy Riffs - Dune	2008-11-06	 
+4 x 47	Hecklevision: Superman in Japoteurs (1942)	2008-11-06	 
+4 x 48	Heckle and Jibe: Superman III	2008-11-06	 
+4 x 49	J.C. Walsh: Alone in the Dark	2011-07-08	 
+4 x 50	The Turkey Shoot with Scott Zee: Fire! Patty Learns What To Do	2008-11-06	 
+4 x 51	Blame Society Productions: Star Wars - A New Hope	2008-11-06	 
+4 x 52	Riffer Phoenix: Destroy All Planets	2008-11-06	 
+4 x 53	Luke and Joe Present: Bloody Pit of Horror	2008-11-06	 
+4 x 54	A Riffer Runs Through It: Boys Beware	2008-11-06	 
+4 x 55			 
+4 x 56	Fanboy Sci-Fi Theater: King Kong - The Eighth Wonder of the World (2005)	2008-11-06	 
+4 x 57	The Back Row: The Relaxed Wife	2008-11-07	 
+4 x 58	ERS: Super Mario Brothers	2008-11-07	 
+4 x 59	The Celluloid Shinobis: Street Fighter	2008-11-07	 
+4 x 60	Riff Vault Presents Build Your Vocabulary	2008-11-07	 
+4 x 61	Cartoon Chaos: Grampy in Be Human (SHORT)	2008-11-08	 
+4 x 62	Mazes and Monsters...in Riff-O-Rama!	2008-11-08	 
+4 x 63	The Turkey Shoot with Scott Zee: Alcohol Is Dynamite	2008-11-09	 
+4 x 64	Atomic Treatment: To Enrich Mankind	2008-11-09	 
+4 x 65	The Celluloid Shinobis: What About Prejudice?	2008-11-10	 
+4 x 66	Speedway Squad: Mission to Mars	2008-11-10	 
+4 x 67	Atomic Treatment: Behind the Freedom Curtain	2008-11-10	 
+4 x 68	Marital Riffs - "Cooking Terms" Short	2008-11-11	 
+4 x 69	Cinemasochists: Super Mario Bros.	2008-11-12	 
+4 x 70	Atomic Treatment: Day of Thanksgiving	2008-11-12	 
+4 x 71	Cartoon Chaos: Gabby Goes Fishing (Short)	2008-11-13	 
+4 x 72	Ghost Stories - Episode 1: Tonight the Spirits Will Be Resurrected! Amanojaku	2008-11-13	 
+4 x 73	Two Men and a Movie: Jumper	2008-11-13	 
+4 x 74	QuipTracks: The Show! Ep 101 - Escape Into Space	2008-11-13	 
+4 x 75	Ice on Mars: Star Trek Voyager: Parallax	2008-11-14	 
+4 x 76	The Back Row: Johnny Sokko And His Flying Robot (ep. 1)	2008-11-15	 
+4 x 77	Aaron Bossig: Christmas Comes But Once a Year (1936)	2008-11-15	 
+4 x 78	Krull: A Vox-O-Rox Quest	2008-11-18	 
+4 x 79	The New Matinee Villains vs Hoosiers	2008-11-18	 
+4 x 80	Just Andrew: Purely Coincidental	2008-11-19	 
+4 x 81	Cinester Theater: The Neverending Story	2008-11-19	 
+4 x 82	Journey to Jerusalem - Trials of the long eared Donkey	2008-11-19	 
+4 x 83	Dinner Party (an iRiff short in Riff-O-Rama)	2008-11-20	 
+4 x 84	What Makes A Good Party (an iRiff short in Riff-O-Rama)	2008-11-20	 
+4 x 85	PS Productions: Star Trek - Amok Time	2008-11-21	 
+4 x 86	Harass Bastards - Rudy	2008-11-22	 
+4 x 87	A Day of Thanksgiving	2008-11-24	 
+4 x 88	Star Trek The Corbomite Maneuver	2008-11-24	 
+4 x 89	Ice on Mars: Star Trek Voyager: Time and Again	2008-11-25	 
+4 x 90	Corvis and J. Freek: Cool as Ice	2008-11-25	 
+4 x 91	Riff This: Labyrinth	2008-11-25	 
+4 x 92	Aaron Bossig: Joe Santa Claus (1951)	2008-11-25	 
+4 x 93	Red Dawn - Track Zero presents	2008-11-26	 
+4 x 94	WeRiff presents- Are You Scared?	2008-11-26	 
+4 x 95	They Live - Track Zero presents	2008-11-27	 
+4 x 96	Demon Knight - Track Zero presents	2008-11-27	 
+4 x 97	Just Andrew - The Gossip	2008-11-27	 
+4 x 98	The Movie Asylum: Titan AE	2008-11-30	 
+4 x 99	Soiled Shortz Presents: Bicycle Clown	2008-12-01	 
+4 x 100	The Couch Crew Present Firestorm	2008-12-01	 
+4 x 101	Corvis-Grim Riffer-	2008-12-02	 
+4 x 102	Animatrix: Final Flight of the Osiris by Revenge of the Sequel	2008-12-02	 
+4 x 103	Spiderman Cartoon Parody # 1	2008-12-02	 
+4 x 104	Spiderman Cartoon Parody # 2	2008-12-03	 
+4 x 105	Mazes and Monsters	2008-12-03	 
+4 x 106	Spiderman Cartoon Parody # 3	2008-12-03	 
+4 x 107	Spiderman Cartoon Parody # 4	2008-12-03	 
+4 x 108	Spiderman Cartoon Parody # 5	2008-12-03	 
+4 x 109	Spiderman Cartoon Parody # 6	2008-12-03	 
+4 x 110	Spiderman Cartoon Parody # 7	2008-12-03	 
+4 x 111	Spiderman Cartoon Parody # 8	2008-12-03	 
+4 x 112	Spiderman Cartoon Parody # 9	2008-12-03	 
+4 x 113	Spiderman Cartoon Parody # 10	2008-12-03	 
+4 x 114	Spiderman Cartoon Parody # 11	2008-12-03	 
+4 x 115	Spiderman Cartoon Parody # 12	2008-12-03	 
+4 x 116	Spiderman Cartoon Parody # 13	2008-12-03	 
+4 x 117	Spiderman Cartoon Parody # 14	2008-12-03	 
+4 x 118	Spiderman Cartoon Parody # 15	2008-12-03	 
+4 x 119	Spiderman Cartoon Parody # 16	2008-12-03	 
+4 x 120	Spiderman Cartoon Parody # 17	2008-12-03	 
+4 x 121	The Back Row:Gumby's Gold Rush	2008-12-03	 
+4 x 122	Spiderman Cartoon Parody # 18	2008-12-03	 
+4 x 123	Spiderman Cartoon Parody # 19	2008-12-03	 
+4 x 124	Spiderman Cartoon Parody # 20	2008-12-03	 
+4 x 125	How the Grinch Stole Christmas	2008-12-05	 
+4 x 126	Atomic Treatment: Angry Boy	2008-12-06	 
+4 x 127	Dragnet: A Gun For Christmas	2008-12-06	 
+4 x 128	Ronin Fox Trax: Pearl of the Orient	2008-12-07	 
+4 x 129	X-files: Ice (Season 1: Disk 2)	2008-12-08	 
+4 x 130	Just Andrew - Carnivorous Plants Short	2008-12-10	 
+4 x 131	Adventures of Superman 1952	2008-12-11	 
+4 x 132	Aaron Bossig: Star Trek: TOS Spock's Brain	2008-12-11	 
+4 x 133	Cinester Theater: A Charlie Brown Christmas	2008-12-12	 
+4 x 134	8Trax - Doomsday Unrated	2008-12-12	 
+4 x 135	The Never Ending Story ah-ah-ahh ah-ah-ahh	2008-12-13	 
+4 x 136	Star Trek - Mirror, Mirror	2008-12-13	 
+4 x 137	Three Little Kittens	2008-12-13	 
+4 x 138	Cinema Riff Bandits Presents: Back to the Future	2008-12-16	 
+4 x 139	Pokémon: The Movie 2000	2008-12-16	 
+4 x 140	Frosty Returns	2008-12-18	 
+4 x 141	BloodRayne	2008-12-18	 
+4 x 142	Just Andrew - Your Thrift Habits	2008-12-19	 
+4 x 143	Atomic Treatment: Double Feature - Bright Young Newcomer and Hidden Grievance	2008-12-19	 
+4 x 144	And Then There Were Four	2008-12-20	 
+4 x 145	Santa Claus' Punch and Judy	2008-12-22	 
+4 x 146	Play In The Snow	2008-12-22	 
+4 x 147			 
+4 x 148	Speedway Squad: Enemy Mine	2008-12-25	 
+4 x 149	The Chronicles of Narnia the lion the witch and the wardrobe.	2008-12-26	 
+4 x 150	Orwellian Nightmare Society Ep. 101 - The Librarian	2008-12-26	 
+4 x 151	Masters of the Universe by Corvis and J. Freek	2008-12-30	 
+4 x 152	Ronin Fox Trax: The Last Unicorn	2008-12-30	 
+4 x 153	Just Andrew - Warning From Space	2009-01-01	 
+4 x 154	BEMaven Riffs --- HEMP FOR VICTORY	2009-01-05	 
+4 x 155	Donner Riffs Star Trek V: The Final Frontier	2009-01-05	 
+4 x 156	Aaron Bossig: The Story of Menstruation (1946)	2009-01-06	 
+4 x 157	Just Andrew - Function of Gestures	2009-01-06	 
+4 x 158	Resident Evil	2009-01-07	 
+4 x 159	Werewolf in a Girls' Dormitory	2009-01-08	 
+4 x 160	Cinester Theater: Back To The Future	2009-01-11	 
+4 x 161	Filmquips: Planet of the Apes (2001)	2009-01-11	 
+4 x 162	The Warriors - Ultimate Director's Cut	2009-01-12	 
+4 x 163	Insect Zoo	2009-01-14	 
+4 x 164	Just Andrew - Good Table Manners	2009-01-15	 
+4 x 165	Big Bunch of Doug Shorts - Don't Touch	2009-01-16	 
+4 x 166	Gamera: Attack of Legion	2009-01-17	 
+4 x 167	Riff Raff Theater: Die Hard	2009-01-22	 
+4 x 168	Just Andrew - Soapy the Germ Fighter	2009-01-23	 
+4 x 169			 
+4 x 170	Aaron Bossig: Social Courtesy (1951)	2009-01-24	 
+4 x 171	QuipTracks: Godzilla (1998)	2009-01-25	 
+4 x 172	Cerberiff: Fun of Making Friends	2009-01-26	 
+4 x 173	Angry Boy	2009-01-30	 
+4 x 174	Maneater Studios:Lord Slug	2009-02-03	 
+4 x 175	Mr.B.Natural: Atomic Rulers of the World!	2009-02-03	 
+4 x 176	Cinester Theater: Resident Evil - Degeneration	2009-02-05	 
+4 x 177	Just Andrew - Bodycare and Grooming	2009-02-05	 
+4 x 178	ICWXP: Bloody Pit of Horror w/ short The Talking Car DVD	2009-02-06	 
+4 x 179	Terminator: The Sarah Connor Chronicles	2009-02-06	 
+4 x 180	QuipTracks: Van Helsing	2009-02-06	 
+4 x 181	Orwellian Nightmare Society Ep. 102 - Bacteria: Friend and Foe	2009-02-06	 
+4 x 182	Atomic Treatment: The Lost City Part One	2009-02-07	 
+4 x 183	America's Favorite Team-Up vs. Radar Men from the Moon - Ep. 1	2009-02-07	 
+4 x 184	Fun With Shorts Double Shot: You and Your Work/Bus Nut	2009-02-08	 
+4 x 185	The Lost City - Chapter 2 - The Tunnel of Flame	2009-02-08	 
+4 x 186	Raven's Riffs - Timeline	2009-02-09	 
+4 x 187	OneWallCinema: Enter The Lone Ranger	2009-02-10	 
+4 x 188	FilmRoasters: Bail Out		 
+4 x 189	Best Friends B-Movie Bonanza presents	2009-02-12	 
+4 x 190	FireRiffs Presents: Superman Returns	2009-02-12	 
+4 x 191	Good Table Manners	2009-02-12	 
+4 x 192	Aggro Pulse - Porco Rosso	2009-02-13	 
+4 x 193	Ronin Fox Trax: A Nightmare on Elm Street	2009-02-13	 
+4 x 194	Just Andrew - Lost City Chapter 3	2009-02-13	 
+4 x 195	Ronin Fox Trax: A Nightmare on Elm Street 2	2009-02-13	 
+4 x 196	Raw Deal	2009-02-13	 
+4 x 197	Atomic Treatment: Double Feature - Turnabout Man / It Can't Last	2009-02-13	 
+4 x 198	Disciples of Golan: Superman IV The Quest For Peace	2009-02-14	 
+4 x 199	DMP - How Do You Know It's Love?	2009-02-14	 
+4 x 200	Down in Front: Alcohol is Dynamite	2009-02-14	 
+4 x 201	Ronin Fox Trax: The Lost City Chapter 4	2009-02-14	 
+4 x 202	Upsetting Shorts: The Joy of Living With Fragrance	2009-02-14	 
+4 x 203	Matrix Revolutions	2009-02-14	 
+4 x 204	The One Man Band: An American Werewolf in Paris	2009-02-14	 
+4 x 205	The Gossip	2009-02-14	 
+4 x 206	Upsetting Shorts - Soapy the Germ Fighter	2009-02-14	 
+4 x 207	KiTMAh Predicts! - The Green Slime	2009-02-14	 
+4 x 208	The Golden Compass	2009-02-14	 
+4 x 209	Orwellian Nightmare Society Ep. 201 - The Werewolf of Washington VOD	2009-02-14	 
+4 x 210	Friday The 13th Part 8: Jason Takes Manhattan	2009-02-15	 
+4 x 211	The Core (riffed by alabama)	2009-02-15	 
+4 x 212	skullsinthestars vs. Roland Emmerich's Godzilla (1998)	2009-02-15	 
+4 x 213	Best Friends B-Movie Bonanza presents	2009-02-15	 
+4 x 214	Dawn of the Dead(2004)-Unrated with Director's Introduction	2009-02-15	 
+4 x 215	Tom and Jon: The Mummy	2009-02-16	  
+4 x 216	Other People's Property	2009-02-16	 
+4 x 217	Riff Chick: The Twilight Zone (2002) - The Collection	2009-02-17	 
+4 x 218	Just Andrew - Mind Your Manners	2009-02-18	 
+4 x 219	Riff Raff Theater - Minority Report	2009-02-20	 
+4 x 220	The Lost City, Chapter 5 - Tiger Prey	2009-02-22	 
+4 x 221	Ed is shorts: Check the neck	2009-02-24	 
+4 x 222	Ronin Fox Trax: He-Man She-Ra A Christmas Special	2009-02-26	 
+4 x 223	Backrow: Vidriffz Remix Show	2009-02-26	 
+4 x 224	Backrow: As Boys Grow	2009-02-26	 
+4 x 225	Aaron Bossig: Jesse James Meets Frankenstein's Daughter (1966)	2009-02-28	 
+4 x 226	As Boys Grow	2009-03-01	 
+4 x 227	Atomic Treatment: Bookkeeping and You	2009-03-02	 
+4 x 228	Upsetting Shorts - Carnivorous Plants	2009-03-02	 
+4 x 229	Raven's Riffs-Destruction: Fun or Dumb	2009-03-03	 
+4 x 230	Raven's Riffs-Destruction: Duck and Cover	2009-03-03	 
+4 x 231	The Day the Earth Stood Still	2009-03-03	 
+4 x 232	The Knights Divide	2009-03-06	 
+4 x 233	In Our Hands: How to Lose What We Have	2009-03-06	 
+4 x 234	Speedway Squad: The Last Starfighter	2009-03-06	 
+4 x 235	Lost City Chapter 6: Human Beasts	2009-03-07	 
+4 x 236	Thundercats Episode One	2009-03-08	 
+4 x 237	Cinester Theater: E.T. - The ExtraTerrestrial	2009-03-08	 
+4 x 238	Harass Bastards-Return of the Jedi	2009-03-09	 
+4 x 239	He-Man & She-Ra - The Secret Of The Sword		 
+4 x 240	Ronin Fox Trax: Masters of the Universe	2009-03-12	 
+4 x 241	Lost City Chapter 7	2009-03-12	 
+4 x 242	Riff Raff Theater - Lost City Chapter 9	2009-03-15	 
+4 x 243	Bram Stoker's Dracula	2009-03-17	 
+4 x 244	Just Andrew - Classic Commercials	2009-03-18	 
+4 x 245	Aaron Bossig: Care of the Skin (1949)	2009-03-19	 
+4 x 246	The Movie Asylum: Lost City Chapter 10	2009-03-22	 
+4 x 247	Ice on Mars: Twilight	2009-03-23	 
+4 x 248	WiseCrax: Big Trouble In Little China	2009-03-23	 
+4 x 249	Raven's Riffs - Twilight	2009-03-24	 
+4 x 250	Ice on Mars: Pack of Briefs Volume 1	2009-03-27	 
+4 x 251	The Celluloid Shinobi's Present TWILIGHT!	2009-03-27	 
+4 x 252	Sharpshooter Productions: How Do You Do	2009-03-29	 
+4 x 253	Justice League Of America Pilot	2009-03-31	 
+4 x 254	Lost Boys 2: The Tribe	2009-04-04	 
+4 x 255	Orwellian Nightmare Society Ep. 103 - Frigidaire Finale 1957 and Park Conscious	2009-04-04	 
+4 x 256	Big Bunch of Doug Shorts - Your Junior High Days	2009-04-04	 
+4 x 257	Final Archive	2009-04-04	 
+4 x 258	Narcotics: Pit of Despair (an iRiff short in Riff-O-Rama)	2009-04-07	 
+4 x 259	Harass Bastards-The Lost City: Chapter 8	2009-04-07	 
+4 x 260	Aaron Bossig and Michael T. Bradley: Meat: From Range to Market (1955)	2009-04-07	 
+4 x 261	No Country for Old Men	2009-04-08	 
+4 x 262	Fun With Shorts: The Lost City Chapter 11	2009-04-09	 
+4 x 263	Star Wars Ep. 2 - The Brotherhood of the traveling DVDs	2009-04-11	 
+4 x 264	DMP - A Surprise For Jean	2009-04-18	 
+4 x 265	RiffRoll Productions: Harry Potter and the Goblet of Fire	2009-04-18	 
+4 x 266	Top Gun	2009-04-23	 
+4 x 267	Orwellian Nightmare Society Ep. 104 - What is Money?	2009-04-26	 
+4 x 268	America's Favorite Team-Up vs. I Like Bikes	2009-04-26	 
+4 x 269	Just Andrew - Classic Commercials 2	2009-04-28	 
+4 x 270	Aggro Pulse - Speed Racer	2009-04-29	 
+4 x 271	Speedway Squad: Predator	2009-04-30	 
+4 x 272	Answering the Child's Why	2009-05-02	 
+4 x 273	The Sixth Sense (1949 short)	2009-05-03	 
+4 x 274	Riff Chick: Personality and Emotions	2009-05-04	 
+4 x 275	Candyman	2009-05-08	 
+4 x 276	Fun With Flicks: Laser Mission	2009-05-08	 
+4 x 277	Drawback Productions: The Story of Ricky	2009-05-10	  
+4 x 278	Desdemona	2009-05-11	 
+4 x 279	Atomic Treatment: Holiday for Bill	2009-05-12	 
+4 x 280			 
+4 x 281	Team Swizzlebeef: What Makes a Good Party?	2009-05-15	 
+4 x 282	The Incredibly Strange Riffers - Wild Guitar (VOD)	2009-05-17	 
+4 x 283	Incognito Cinema Warriors XP - Ghost Rider VOD	2009-05-20	 
+4 x 284	Just Andrew - Good Loser	2009-05-20	 
+4 x 285	Big Bunch of Doug Shorts - Touch of Magic	2009-05-23	 
+4 x 286	ART - Beauty and the Beast	2009-05-26	 
+4 x 287	Watchalong Presents: Night Of The Lepus	2009-05-28	 
+4 x 288	Mr.B.Natural: Cat-Women of the Moon	2009-05-29	 
+4 x 289	BrettCo: Death Wish 3	2009-06-02	 
+4 x 290	The One Man Band: Doom	2009-06-02	 
+4 x 291	Hellsing Ultimate by I See You Studios	2009-06-02	 
+4 x 292	Triple Threat Productions Presents - The Fed Today	2009-06-04	 
+4 x 293	Introverted Magical Emporium: Make Mine Freedom	2009-06-07	 
+4 x 294	RTU Presents: Inside Magoo	2009-06-08	 
+4 x 295	CounterClockwise Comedy Roast - Top Gun	2009-06-10	 
+4 x 296	AudioAntics Presents - Star Trek Nemesis!	2009-06-15	 
+4 x 297	Cinester Theater: Back To The Future, Part 2	2009-06-16	 
+4 x 298	DMP - Best Of Both Worlds Part One	2009-06-17	 
+4 x 299	Ice on Mars - Star Trek: The Next Generation: Best of Both Worlds Part Two	2009-06-17	 
+4 x 300	Ronin Fox Trax: A Nightmare on Elm Street 3	2009-06-22	 
+4 x 301	Sleeping Beauty - A Stockton Riffs Production	2009-06-23	 
+4 x 302	CounterClockwise Comedy Roast - Jurassic Park	2009-06-24	 
+4 x 303	RTU Presents: Linda's Film on Menstruation	2009-06-24	 
+4 x 304	Team Swizzlebeef: Better Use of Leisure Time	2009-06-24	 
+4 x 305	Cinester Theater: Planet Of Dinosaurs	2009-06-27	 
+4 x 306			 
+4 x 307	Mobile Suit Gundam Seed Episode 1	2009-06-29	 
+4 x 308	Carving Magic	2009-06-29	 
+4 x 309	RTU Presents: Safety With Animals	2009-06-30	 
+4 x 310	WALL-E	2009-07-01	 
+4 x 311	Fun With Flicks: The Incredible Petrified World	2009-07-03	 
+4 x 312	Upsetting Shorts: I Like Bikes	2009-07-03	 
+4 x 313	Watchalong Presents: Space Camp	2009-07-07	 
+4 x 314	Superman and the Mole-men (1951-Directed by Lee Shalom)	2009-07-07	 
+4 x 315	RTU Presents: A Date With The Family	2009-07-08	 
+4 x 316	PS Productions: Star Trek - First Contact	2009-07-10	 
+4 x 317	RTU Presents: Appreciating Our Parents	2009-07-10	 
+4 x 318	Mr.B.Natural: THEM!	2009-07-11	  
+4 x 319	Starcrash (1978) - Riffed by Garrett Gilchrist	2009-07-12	 
+4 x 320	Fireriffs Presents Highlander 2	2009-07-13	 
+4 x 321	Just Andrew - Sons of Hercules	2009-07-14	 
+4 x 322	TreacheRiffs: Lost In Space (1998)	2009-07-16	 
+4 x 323	Film Is Pwn Presents: Mega Shark vs. Giant Octopus	2009-07-18	 
+4 x 324	Big Bunch of Doug Shorts - Carpet and BBQ	2009-07-19	 
+4 x 325	Doug's Big, Long One - SoH: The Land of Darkness VOD	2009-07-19	 
+4 x 326	RTU Presents: Parent to Child	2009-07-20	 
+4 x 327	The Celluloid Shinobi's Present - Halloween Safety	2009-07-21	 
+4 x 328	N I G H T B E A S T: The Riff!	2009-07-21	 
+4 x 329	The Adventures of Junior Raindrop	2009-07-22	 
+4 x 330	The Guiding Light - Episode One	2009-07-22	 
+4 x 331	Anime iRiff: Ranma 1/2 Martial Mayhem: Give Me That Pigtail!	2009-07-24	 
+4 x 332	Yor, the Hunter From the Future - Commentary by Garrett Gilchrist	2009-07-25	 
+4 x 333	Doug's Big, Long One - The Disappearance of Flight 412 VOD	2009-07-27	 
+4 x 334	Film is Pwn Presents: Goodbye, Mr. Germ	2009-07-27	 
+4 x 335	Why Study Science?	2009-07-28	 
+4 x 336	Big Bunch of Doug Shorts - Goldilocks and the Three Bears	2009-07-29	 
+4 x 337	Big Bunch of Doug Shorts - Soapy the Germ Fighter	2009-07-29	 
+4 x 338			 
+4 x 339	Atomic Treatment: Gateways to the Mind w/ short: Fitting Faces	2009-07-29	 
+4 x 340	I Riff Because I Love - Who Framed Roger Rabbit	2009-08-02	 
+4 x 341	Two Sisters Riffing - Pirates of the Caribbean: Dead Man's Chest	2009-08-02	 
+4 x 342	Cinester Theater: Star Trek Voyager: Phage	2009-08-03	 
+4 x 343	Ice on Mars: Star Trek Voyager: The Cloud	2009-08-03	 
+4 x 344	QuipTracks: Star Trek Voyager: Eye of the Needle	2009-08-04	 
+4 x 345	DMP - Tomorrow's Drivers	2009-08-04	 
+4 x 346	Ice on Mars: Star Trek Voyager: Ex Post Facto	2009-08-04	 
+4 x 347	Just Andrew - War of the Robots	2009-08-05	 
+4 x 348	Decrepit Crypt of Nightmares (Episode#1) A Candle in the Dark	2009-08-06	 
+4 x 349	Taken - The Extended Cut	2009-08-06	 
+4 x 350	Quiptracks: Street Fighter - The Legend of Chun Li	2009-08-09	 
+4 x 351	Watchalong Presents: Maximum Overdrive	2009-08-10	 
+4 x 352	The Rainbow Warriors	2009-08-11	 
+4 x 353	Teenage Zombies : Circus Peanut Gallery	2009-08-13	 
+4 x 354	Watchmen	2009-08-13	 
+4 x 355	The Angry Gibbons present Twilight	2009-08-13	 
+4 x 356	TTP Presents: General Aviation: Fact or Fiction?	2009-08-18	 
+4 x 357	Unbreakable Vista Series Edition on Doctor Enfields Projection Room of Doom	2009-08-24	 
+4 x 358	DogKnob presents The Trollenberg Terror (a.k.a. The Crawling Eye)	2009-08-26	 
+4 x 359	Spring Break - Bootleg Original Cast Audio Commentary	2009-08-29	 
+4 x 360	THE BACK ROW: INTERMISSION TIME!	2009-09-04	 
+4 x 361	Tin Man (Part 1)	2009-09-04	 
+4 x 362	Film Is Pwn Presents: Who Cares?	2009-09-07	 
+4 x 363	Sgt. Pepper's Lonely Hearts Club Band	2009-09-08	 
+4 x 364	Doug's Big, Long One - Riders of the Whistling Skull VOD	2009-09-11	 
+4 x 365	Just Andrew - Classic Commercials 3 - Sex and Drugs	2009-09-11	 
+4 x 366			 
+4 x 367	The Outlaw - Microriffs	2009-09-12	 
+4 x 368	The Outlaw Microriffs Part 2	2009-09-12	 
+4 x 369	Big Bunch of Doug Shorts - Jay Can Do It	2009-09-13	 
+4 x 370	Big Bunch of Doug Shorts - The Party's Over	2009-09-13	 
+4 x 371	MicroRiffs -THE OUTLAW - part 3	2009-09-13	 
+4 x 372	The Outlaw - conclusion	2009-09-13	 
+4 x 373	Eagle, Beagle, and Seagull: Perversion for Profit	2009-09-14	 
+4 x 374	The Celluloid Shinobi's -- How to Say No	2009-09-14	 
+4 x 375	Short Film Cynic Presents: Goldilocks and the 3 Bears	2009-09-15	 
+4 x 376	Hi I'm JK and this is my iRiff: Linda's Film on Menstruation	2009-09-15	 
+4 x 377	Jonah’s Turn Spins X-Men Origins: Wolverine	2009-09-17	 
+4 x 378	Film Is Pwn Presents: Walking To School/VD Is For Everyone!	2009-09-17	 
+4 x 379	Riff Raff Theater - The League of Extraordinary Gentlemen	2009-09-19	 
+4 x 380	PuppyKnob: Perversion for Profit VOD	2009-09-19	 
+4 x 381	DMP - Golden Years	2009-09-19	 
+4 x 382	Ice on Mars: The Lizzie McGuire Movie	2009-09-21	 
+4 x 383	Ice on Mars: Soapy	2009-09-21	 
+4 x 384	Dokken-Dream Warriors Music Video Commentary	2009-09-21	 
+4 x 385	THE BULLY - MicroRiffs	2009-09-22	 
+4 x 386	Short Film Cynic Presents: It Pays to be Prepared for the Gold Rush	2009-09-24	 
+4 x 387	Speaking of Rubber: Personal Self-Discovery Through Synthetic Rubber Production - Riffed by	2009-09-27	 
+4 x 388	DMP - Peter Borik	2009-09-27	 
+4 x 389	1936 ALL AMERICAN SOAP BOX DERBY-MicroRiffs	2009-09-29	 
+4 x 390	Toast and Rice: Phantom from Space		 
+4 x 391	Atomic Treatment: Tippy The Town Dog	2009-10-01	 
+4 x 392	OPERATION: R.I.F.F. - Ways To Settle Disputes	2009-10-02	 
+4 x 393	Return of the Kung Fu Dragon by Levithor Riffs	2009-10-03	 
+4 x 394	MICRORIFFS-HOLIDAY FROM RULES?	2009-10-05	 
+4 x 395	Phantom of the Opera (Dario Argento Version)	2009-10-06	 
+4 x 396	PuppyKnob: Habit Patterns VOD	2009-10-08	 
+4 x 397	MiCRoRiFFs - CONTROL YOUR EMOTIONS	2009-10-08	 
+4 x 398	MiCroRIffS - DON'T COPY THAT FLOPPY	2009-10-10	 
+4 x 399	ART - Kung Fu Panda	2009-10-13	 
+4 x 400	Corny Commentaries: How Quiet Helps At School	2009-10-13	 
+4 x 401	Gung Ho! - Basement Dwellers Riffs	2009-10-14	 
+4 x 402	The House in the Middle: How paint may save you from Atomic Bombs - Riffed by	2009-10-15	 
+4 x 403	Atomic Treatment: It Can't Last	2009-10-15	 
+4 x 404	UNWANTED AFFECTION - MicroRiffS	2009-10-15	 
+4 x 405	Turkish Star Wars (Dünyayi kurtaran adam (1982)) -	2009-10-15	 
+4 x 406	Mr.B.Natural: Cosmos: War of the Planets	2009-10-16	 
+4 x 407	Short Film Cynic Presents: The 6th Chair	2009-10-17	 
+4 x 408	Short Film Cynic Presents: The 6th Chair	2009-10-19	 
+4 x 409	Film Is Pwn vs. Transformers: Revenge of the Fallen	2009-10-20	 
+4 x 410	Cinester Theater: RoboCop	2009-10-20	 
+4 x 411	Lara Croft Tomb Raider: The Cradle of Life	2009-10-22	 
+4 x 412	Living and Working Spaces: Hygiene during battle -	2009-10-23	 
+4 x 413	Killer Klowns from Outer Space		 
+4 x 414	Two Man Band: Underworld - Rise of the Lycans	2009-10-27	 
+4 x 415	Cinester Theater: It's The Great Pumpkin, Charlie Brown	2009-10-28	 
+4 x 416	BLOOD FEAST - MicroRiffs	2009-10-31	 
+4 x 417	Enter The Dragon	2009-11-05	 
+4 x 418	Fanboy Sci-Fi Theater - GAMERA SUPER MONSTER	2009-11-05	 
+4 x 419	Fanboy Sci-Fi Theater - GAMERA SUPER MONSTER	2009-11-08	 
+4 x 420	Corny Commentaries: Safety: In Danger Out of Doors	2009-11-08	 
+4 x 421	Fanboy Sci-Fi Theater - Gamera in DESTROY ALL PLANETS	2009-11-10	 
+4 x 422	When You Grow Up : Circus Peanut Gallery	2009-11-12	 
+4 x 423	Aggro Pulse - Ninja Scroll	2009-11-14	 
+4 x 424	How Much Affection	2009-11-17	 
+4 x 425	FireRiffs Presents Don't Be Afraid	2009-11-17	 
+4 x 426	The One Man Band: Ice Pirates	2009-11-18	 
+4 x 427	Perry Mason & the Case of the Trecherous Toupee	2009-11-23	 
+4 x 428	Gamera: Revenge of Iris	2009-11-24	 
+4 x 429	Gamera: Heisei Trilogy Pack!!	2009-11-24	 
+4 x 430	Ronin Fox Trax: A Nightmare on Elm Street 4	2009-11-25	 
+4 x 431	Corny Commentaries: Why We Respect The Law	2009-11-25	 
+4 x 432	Film Is Pwn vs. Monster Squad	2009-11-29	 
+4 x 433	Just Andrew - Where Does It Get You? Short	2009-11-30	 
+4 x 434	The Knights Divide V.O.D.	2009-12-03	 
+4 x 435	TreacheRiffs: Congo	2009-12-04	 
+4 x 436	ART - Rudolph the Red-Nosed Reindeer	2009-12-07	 
+4 x 437	Team Swizzlebeef: Captain Midnight: Mission to Mexico	2009-12-08	 
+4 x 438	FireRiffs Presents Josh Kirby Time Warrior: Planet of the Dino Knights	2009-12-08	 
+4 x 439	RTU Presents: The Greatest Crap We've Done (Vol. 1)	2009-12-09	 
+4 x 440	Doug's Big, Long One - The Incredible 2-Headed Transplant VOD	2009-12-09	 
+4 x 441	IDIODDITY PRODUCTIONS: ATTITUDES AND HEALTH	2009-12-10	 
+4 x 442	The Boy in the Plastic Bubble - VOD - Friends of Watchalong	2009-12-11	 
+4 x 443	Film Nuts! presents - King of the Rocket Men: Episodes One - Three	2009-12-12	 
+4 x 444	Everyone's Hero	2009-12-12	 
+4 x 445	MICRORIFFS:SMOKEY & ZIPPY	2009-12-12	 
+4 x 446	OneWallCinema: Burn-E (The iRiff Sing-Along)	2009-12-13	 
+4 x 447	Fun With Flicks: Buck Rogers in Planet Outlaws	2010-01-11	 
+4 x 448			 
+4 x 449	Tom and Jon: The Tale of Despereaux	2011-01-30	 
+4 x 450	Cinester Theater: Batman Returns	2010-04-08	 
+4 x 451			 
+4 x 452	Ice on Mars: Twilight: New Moon	2010-04-27	 
+4 x 453	Orwellian Nightmare Society Ep. 202 - Carnival Story VOD	2010-04-27	 
+4 x 454	Ronin Fox Trax: The Wizard of Oz	2010-04-27	 
+4 x 455	The One Man Band: Terminator: Salvation	2010-04-27	 
+4 x 456	The Conqueror: John Wayne as Ghengis Khan, blah, blah	2010-04-28	 
+4 x 457	Dan Iorizzo: Bicycle Safety	2010-04-28	 
+4 x 458	iGrift Presents: True Lies	2010-04-28	 
+4 x 459	DogKnob: Star Trek Voyager: Prime Factors	2010-04-29	 
+4 x 460	Corny Commentaries - School Rules: How They Help Us	2010-04-29	 
+4 x 461	thinking with josh head presents: kujibiki unbalnce episode one	2010-05-02	 
+4 x 462	thinking with josh head presents:death note episode one riff	2010-05-02	 
+4 x 463	Howard The Duck: A Vox-O-Rox Adventure	2010-05-03	 
+4 x 464	Son of Godzilla	2010-05-08	 
+4 x 465	Big Bunch of Doug Shorts - A Day Called 'X'	2010-05-18	 
+4 x 466	Riff Raff Theater: I, Robot	2010-05-18	 
+4 x 467	Big Bunch of Doug Shorts - Tales of Tomorrow	2010-05-18	 
+4 x 468	Cinester Theater: Back to the Future, Part 3	2010-05-19	 
+4 x 469	RiffDuck: How QUIET Helps At School (1953)	2010-05-20	 
+4 x 470	Flash Gordon	2010-05-20	 
+4 x 471	SharpShooter Productions: Stage Fright and What to Do About It	2010-05-22	 
+4 x 472	SharpShooter Productions: What About Juvenile Delinquency?	2010-05-23	 
+4 x 473	Ice on Mars: Star Trek: Voyager: Emanations	2010-05-23	 
+4 x 474	TreacheRiffs: Star Trek: Voyager: State of Flux	2010-05-25	 
+4 x 475	Riff Raff Theater: Star Trek: Voyager: Heroes and Demons	2010-05-27	 
+4 x 476	The Angry Gibbons present New Moon	2010-05-31	 
+4 x 477	Ralph and Rick resent: The Bat	2010-06-02	 
+4 x 478	J.C. Walsh: Star Trek: Voyager: Cathexis	2010-06-07	 
+4 x 479	Ice on Mars: Star Trek: Voyager: Faces	2010-06-07	 
+4 x 480	Bonehead Radio: Krull	2010-06-08	 
+4 x 481	Just Andrew - Star Trek Voyager: Jetrel	2010-06-09	 
+4 x 482	Ice on Mars: Star Trek: Voyager: Learning Curve	2010-06-10	 
+4 x 483			 
+4 x 484	The Soliloquist: The Fantastic Four (1994)	2010-06-14	  
+4 x 485	Movie Masochists - Bus Nut	2010-06-19	 
+4 x 486	Horror Express	2010-06-20	 
+4 x 487	Galaxy Invader	2010-06-20	 
+4 x 488	Don't Kill Your Friends - VOD	2010-06-23	 
+4 x 489	Atomic Treatment: A Christmas Without Snow	2010-06-24	 
+4 x 490	Another Cup of Coffee - VOD	2010-06-26	 
+4 x 491	Bunny - VOD	2010-06-26	 
+4 x 492	Introverted Magical Emporium: What Makes a Good Party?	2010-06-26	 
+4 x 493	Subject: Narcotics - VOD	2010-06-27	 
+4 x 494	Just Andrew - Midwest Holiday	2010-06-28	 
+4 x 495	Drawback Productions: Indiana Jones and the Temple of Doom	2010-06-28	  
+4 x 496	Introverted Magical Emporium: Back of the Mike	2010-06-30	 
+4 x 497	FireRiffs Presents: Batman	2010-06-30	 
+4 x 498	Safety Patrol - VOD	2010-07-02	 
+4 x 499	Movie Masochists - The Adventures of Pluto Nash	2010-07-07	 
+4 x 500	SharpShooter Presents: Human Reproduction	2010-07-09	 
+4 x 501	Eagle, Beagle & Seagull: Make Mine Freedom	2010-07-12	 
+4 x 502	Torgo and Rowsdower Present Freaky Friday	2010-07-13	 
+4 x 503	Short Film Cynic Presents: Safety Patrol	2010-07-16	 
+4 x 504	Toast and Rice: Sisters of Death	2010-07-18	 
+4 x 505	Vox-O-Rox: Star Wars Clone Wars, Episode 1:	2010-07-20	 
+4 x 506	Doug's Big, Long One - Horror Express VOD	2010-07-22	 
+4 x 507	Mr.B.Natural: Flying Disc Man From Mars Chapters 1 & 2 VOD	2010-07-23	  
+4 x 508	Fun with Shorts: Destination Earth	2010-07-24	 
+4 x 509	Straight Up Episode 1	2010-07-26	 
+4 x 510	FREE iRiff - Don't Spread Germs!	2010-07-28	 
+4 x 511	FireRiffs Presents: Fitting Faces	2010-07-28	 
+4 x 512	Blood of Jesus with a short First Americans: Past and Present	2010-07-29	 
+4 x 513	Captain America (1944 serial) ep-01 - VOD	2010-07-29	 
+4 x 514	Introverted Magical Emporium: The Safest Place	2010-07-31	 
+4 x 515	thinking with josh head presents: azuma manga daioh ep 1	2010-08-01	 
+4 x 516	How to Keep a Job VOD Short	2010-08-02	 
+4 x 517	FREE iRiff - Pedestrian Crossing	2010-08-03	 
+4 x 518	Introverted Magical Emporium: Science and Agriculture - The Soybean	2010-08-03	 
+4 x 519	Special Jokes: Mortal Kombat!	2010-08-03	 
+4 x 520	The Turkey Shoot with Scott Zee: Spooks Run Wild	2010-08-07	 
+4 x 521	Down in Front Presents: Diver Dan Episode 01 - Hard Water	2010-08-08	 
+4 x 522	The Spoony Experiment: After Last Season	2010-08-09	 
+4 x 523	The Spoony Experiment - Captain Z-Ro: Episode 1	2010-08-09	 
+4 x 524	Torgo and Rowsdower Present She's Out of Control	2010-08-09	 
+4 x 525	Riffing The President	2010-08-18	 
+4 x 526	Big Bunch of Doug Shorts - Barbers	2010-08-18	 
+4 x 527	Ronin Fox Trax: Dune	2010-08-18	 
+4 x 528	Big Bunch of Doug Shorts - O'Mara's Chain Miracle	2010-08-18	 
+4 x 529	Ice on Mars vs. The Karate Kid	2010-08-20	 
+4 x 530	Practical Dreamer - VOD Short	2010-08-20	 
+4 x 531	Star Trek:TNG The Last Outpost - Basement Dwellers Riffs	2010-08-23	 
+4 x 532	Introverted Magical Emporium: Halloween Safety Short	2010-08-23	 
+4 x 533	Roger Corman's The Fast and the Furious VOD	2010-08-24	 
+4 x 534	Corny Commentaries: Communism	2010-08-26	 
+4 x 535	Heated Seats presents Touched by an Angel	2010-08-27	 
+4 x 536	Star Trek:TNG - Encounter at Farpoint - Hexanym Studio	2010-08-30	 
+4 x 537	Film Nuts presents: The Rapture!	2010-09-02	 
+4 x 538	Torgo and Rowsdower Present Seventh Heaven Season 5 episode 9	2010-09-09	 
+4 x 539	Captain America (1944 serial) ep-02 - VOD	2010-09-10	 
+4 x 540	Hor-RIFF-ic: Friday the 13th Part V	2010-09-11	 
+4 x 541	Cinemasochists: Highlander 2 The Quickening	2010-09-11	 
+4 x 542	Cinemasochists: Super Mario Bros	2010-09-14	 
+4 x 543	The Outsider	2010-09-18	 
+4 x 544	Movie Masochists - The Warriors	2010-09-24	 
+4 x 545	Ozzie and Harriet's Halloween Party VOD	2010-10-04	 
+4 x 546	Suspiria's Rent-Free House of Horrors Presents: Bela Lugosi Meets a Brooklyn Gorilla	2010-10-07	 
+4 x 547	Captain America (1944 serial) ep-03 - VOD	2010-10-07	 
+4 x 548	Riff Raff Theater: Alien vs. Predator	2010-10-07	 
+4 x 549	Cinester Theater: March of the Penguins		 
+4 x 550	A Case For Beer [VOD] - A Joint from the Kids on the Street		 
+4 x 551	thinking with josh head presents: final fantasy unlimited ep 16		 
+4 x 552	MICRORIFFS-HERE'S HOCKEY!		 
+4 x 553	Atomic Treatment & Mr.B.Natural: High School Caesar	2010-10-22	 
+4 x 554	The One Man Band: The Thing		 
+4 x 555	Darkside Riffs - Constantine		 
+4 x 556	FireRiffs Presents: The Incredible Hulk The Beast Within		 
+4 x 557	Ralph and Rick resent: Freedom Highway VOD!		 
+4 x 558	Ketchup Pharaoh Productions Presents: Ghostbusters		 
+4 x 559	Riff-a-Brack Productions: Resident Evil	2010-11-04	 
+4 x 560	Dining Together - A Joint from the Kids on the Street		 
+4 x 561	Let's Make A Sandwich - burnt by BEMaven		 
+4 x 562	The One Man Band: Alien		 
+4 x 563	Introverted Magical Emporium: A Day of Thanksgiving		 
+4 x 564	Microriffs: A Missile Named Mac		 
+4 x 565	Atomic Treatment & Mr. B Natural: Hercules in the Center of the Earth	2010-11-23	 
+4 x 566	Microriffs: Bela Lugosi Meets a Brooklyn Gorilla		 
+4 x 567	FilmRoasters: Cat-Women of the Moon	2013-09-25	 
+4 x 568	The Lost City Chapter 12: The One Man Band		 
+4 x 569	Dan and Dan: Eraser		 
+4 x 570	The Turkey Shoot: Scrooge	2010-12-01	 
+4 x 571	Short Film Cynic Presents: How to have Fun with Quackery		 
+4 x 572	Short Film Cynic Presents: Helping Johnny get Drunk in Home Ec		 
+4 x 573	Rudolph The Red Nosed Reindeer - A Joint from the Kids on the Street!		 
+4 x 574	Heated Seats presents Marked for Death		 
+4 x 575	Ralph and Rick resent: Prehistoric Women (1967)		 
+4 x 576	Island of Misfit Riffs		 
+4 x 577	The Turkey Shoot with Scott Zee: The Snow Creature		 
+4 x 578	Movie Masochists - Safety With Animals		 
+4 x 579	Movie Masochists - Who Cares		 
+4 x 580	Movie Masochists - Goldilocks and the Three Bears		 
+4 x 581	Cindy Goes To A Party - VOD		 
+4 x 582	Team Swizzlebeef: In the Suburbs		 
+4 x 583	Santa Claus is Comin To Town - A Joint from the Kids on the Street		 
+4 x 584	SQUEAK THE SQUIRREL - The Turkey Shoot with Scott Zee		 
+4 x 585	Cinester Theater: Short Circuit	2010-12-17	 
+4 x 586	Santa and the Fairy Snow Queen - VOD		 
+4 x 587	Hor-RIFF-ic: Leprechaun	2010-12-20	  
+4 x 588	Brothers Herman: Batman Begins	2012-08-23	  
+4 x 589	Snack Mechanix presents Devil	2011-02-23	 
+4 x 590	Tin Man (Part 1)		 
+4 x 591	Tin Man (Part 2)		 
+4 x 592	Tin Man (Part 3)		 
+4 x 593	Gymkommentary 1: Gymkata	2007-12-04	 
+4 x 594	Gymkommentary 2: Breakin' 2: Electric Boogaloo	2008-02-01	 
+4 x 595	Gymkommentary 3: Challenge of the Superfriends	2008-06-24	 
+4 x 596	Gymkommentary 4: Can't Stop the Music	2008-08-20	 
+4 x 597	Gymkommentary 5: The Wicker Man	2009-02-12	 
+4 x 598	Gymkommentary 6: Rambo II	2009-03-11	 
+4 x 599	Gymkommentary 7: The Scorpion King	2009-06-29	 
+4 x 600	Gymkommentary 8: Universial Soldier: The Return	2009-08-27	 
+4 x 601	Gymkommentary 9: Mega Shark vs. Giant Octopus	2010-01-02	 
+4 x 602	Gymkommentary 10: The Stabilizer	2010-02-01	 
+4 x 603	Gymkommentary 11: Righteous Kill	2010-03-01	 
+4 x 604	Gymkommentary 12: The Wolverine	2010-04-22	 
+4 x 605	Gymkommentary 13: Star Trek: The Motion Picture	2010-10-15	 
+4 x 606	Aladdin (Mel-O-Toons)		 
+4 x 607	Ronin Fox Trax: A Nightmare on Elm Street 5		 
+4 x 608	Ryan's Riffs: Dune		 
+4 x 609	Big Bunch of Doug Shorts - Roads to Romance		 
+4 x 610	Little Audrey in The Lost Dream		 
+4 x 611	Fun with Flicks: Phantom From Space	2008-04-20	 
+4 x 612	Ralph and Rick resent: The Phantom Empire Chapter 1		 
+4 x 613	ShortFilmCynic Presents: Using your ideals for school spirit keeps America beautiful.		 
+4 x 614	Mr.B.Natural: The Phantom Empire Chapter 2		 
+4 x 615	FilmRoasters: Black Christmas	2011-02-28	 
+4 x 616	Big Bunch of Doug Shorts - Girls Beware		 
+4 x 617	When You Grow Up + Team Up Say No PSA's VOD		 
+4 x 618	The Spirit (2008)		 
+4 x 619	Film Nuts presents - Double Dose of Doom! (VOD)		 
+4 x 620	Corny Commentaries: The Phantom Empire Chapter 4		 
+4 x 621	Death Note: The Movie (Presented by The Infinite Losers)	2011-02-22	 
+4 x 622	THE SOUND AND THE STORY-MicroRiffs		 
+4 x 623	Quiptracks: Dragonball Evolution	2010-09-24	 
+4 x 624	FilmRoasters: The Dungeonmaster	2011-02-26	 
+4 x 625	Sapptrax: Terminator	2011-03-06	 
+4 x 626	Ominous Projects - 10,000 BC	2011-03-11	 
+4 x 627	Atomic Treament & Mr. B Natural: The Phantom Empire Chapter 3	2011-03-01	 
+4 x 628	Quiptracks: Equilibrium	2011-04-07	 
+4 x 629	Heated Seats: Runaway	2011-03-20	 
+4 x 630	Ice on Mars: The Day of the Triffids	2011-04-23	 
+4 x 631	The Spoony Experiment: Dune	2012-06-06	  
+4 x 632	Quiptracks: Signs	2011-06-01	 
+4 x 633	Toast and Rice: Unknown World	2011-05-21	  
+4 x 634	Gymkommentary 14 - I Know Who Killed me	2011-06-17	 
+4 x 635	Commando - Sam & Bob	2011-07-05	 
+4 x 636	ICWXP: Bride of Gorilla	2008-01-17	 
+4 x 637	ICWXP: Werewolf in a Girls' Dormitory	2010-09-16	  
+4 x 638	Atomic Treatment & Mr B Natural: The Earth vs. The Flying Saucers		  
+4 x 639	Gymkommentary 15 - Revenge of the Ninja	2011-11-27	 
+4 x 640	Fun With Flicks: Voyage to the Prehistoric Planet		 
+4 x 641	The Incomparable Podcast: Phantom Empire Chapter 5		 
+4 x 642	FireRiffs Presents: The Phantom Empire Chapter 6		 
+4 x 643	Toast and Rice Presents: The Phantom Empire Chapter 7		 
+4 x 644	Basement Dwellers Riffs: The Phantom Empire Chapter 8		 
+4 x 645	The One Man Band: The Phantom Empire Chapter 9		 
+4 x 646	The Turkey Shoot with Scott Zee - The Phantom Empire Chapter 10		 
+4 x 647	The Kids on the Street: The Phantom Empire Chapter 11		 
+4 x 648	Fun With Shorts: The Phantom Empire Chapter 12		 
+4 x 649	Jared and Zach: The Core		 
+4 x 650	Drawback Productions: Die Hard 2 - Die Harder	2014-04-06	  
+4 x 651	The Nasty Rabbit VOD by Toast and Rice		  
+4 x 652	Rifftrax Recycled: Judge Dredd	2010-06-01	  
+4 x 653	Rifftrax Recycled: Robot Jox		  
+4 x 654	Quiptracks: The Core	2009-06-24	 
+4 x 655	Quiptracks: The Happening	2008-10-07	 
+4 x 656	Quiptracks: The Last Airbender	2010-11-19	 
+4 x 657	TeamFourStar: Dragonball Evolution	2012-09-11	 
+4 x 658	Quiptracks: Mission Impossible II		 
+4 x 659	Quiptracks: Jurassic Park		 
+4 x 660	Ronin Fox Trax: Batman		 
+4 x 661	VoidBurger and Bob - Silent Hill	2012-09-10	  
+4 x 662	Hor-RIFF-ic: Halloween Safety Shorts	2011-11-12	  
+4 x 663	Riff Bros: Prophecy	2010-05-25	 
+4 x 664	Riff Bros: Night of the Lepus	2010-05-26	 
+4 x 665	Riff Bros: Jaws 4 - The Revenge	2010-06-02	 
+4 x 666	Riff Bros: Super Mario Bros	2011-05-25	 
+4 x 667	Riff Bros: The Galaxy Invader	2011-08-30	 
+4 x 668	Riff Bros: Lady Terminator	2011-09-26	 
+4 x 669	Riff Bros: Conan The Barbarian	2011-09-27	 
+4 x 670	Riff Bros: Quest for Fire	2011-10-27	 
+4 x 671	Riff Bros: Halloween Special 2010	2011-10-27	 
+4 x 672	Riff Bros: Silver Bullet	2011-11-29	 
+4 x 673	Riff Bros: 3 Ninjas	2012-02-14	 
+4 x 674	FilmRoasters: Zardoz	2012-03-05	 
+4 x 675	OneWallCinema: G.I. Joe - The Movie (1987)	2011-07-04	 
+4 x 676	Mr. Plinkett - Star Wars Episode I The Phantom Menace	2012-04-09	 
+4 x 677	Wizard People Dear Readers - Harry Potter and the Sorcerer's Stone	2007-05-30	 
+4 x 678	Riff Bros: Friday the 13th Part 3D	2012-04-27	 
+4 x 679	FireRiffs: The Incredible Hulk (2008)		 
+4 x 680	Quiptracks: Hulk (2003)		 
+4 x 681	OneWallCinema: The Shadow (1994)	2012-02-25	 
+4 x 682	Film Roasters uncut - Bail Out		 
+4 x 683	MicroRiffs: It's a Wonderful Life		 
+4 x 684	Quiptracks: Gattaca	2010-06-12	 
+4 x 685	Ronin Fox Trax: Happy Birthday to Me	2012-03-28	 
+4 x 686	FilmRoasters: Laser Mission (VOD)	2012-02-24	 
+4 x 687	Cinester Theater: Teenage Mutant Ninja Turtles 2	2013-06-12	  
+4 x 688	Gymkommentary 16: Star Wars: Episode I - The Phantom Menace	2013-01-29	 
+4 x 689	Quiptracks: Sky Captain and the World of Tomorrow	2008-06-10	 
+4 x 690	FireStorm: Godzilla (1998)	2013-07-09	 
+4 x 691	Hor-RIFF-ic: Dracula (1931)	2013-07-29	 
+4 x 692	Ronin Fox Trax: Star Trek Nemesis	2013-07-12	 
+4 x 693	One Man Band and OneWallCinema: Conan the Barbarian (1982)	2013-08-21	  
+4 x 694	The Return of Chandu Chapter 1 - FireRiffs	2013-03-31	 
+4 x 695	The Return of Chandu Chapter 2 - Toast and Rice	2013-04-13	 
+4 x 696	The Return of Chandu Chapter 3 - Team Swizzlebeef	2013-04-14	 
+4 x 697	The Return of Chandu Chapter 4 - Ralph and Rick Resent	2013-04-22	 
+4 x 698	The Return of Chandu Chapter 5 - Drawback Productions	2013-05-27	 
+4 x 699	The Return of Chandu Chapter 6 - Rabbit Ears	2013-05-05	 
+4 x 700	The Return of Chandu Chapter 7 - Ghosts on the Big Brown Couch	2013-05-13	 
+4 x 701	The Return of Chandu Chapter 8 - The One Man Riffing Crew	2013-05-20	 
+4 x 702	The Return of Chandu Chapter 9 - BEMaven	2013-05-29	 
+4 x 703	The Return of Chandu Chapter 10 - The Turkey Shoot w/Scott Zee	2013-06-04	 
+4 x 704	The Return of Chandu Chapter 11 - Sinsurround Theater	2013-06-16	 
+4 x 705	The Return of Chandu Chapter 12 - One Man Band and OneWallCinema Crossover	2013-07-14	 
+4 x 706	Atomic Treatment and Mr B Natural: Unknown Island	2013-04-21	 
+4 x 707	Mr.B.Natural & Atomic Treatment Present: Mole Men Against the Son of Hercules	2012-05-12	 
+4 x 708	Atomic Treatment & Mr B Natural: Superargo and the Faceless Giants	2012-10-07	 
+4 x 709	Mr.B.Natural & Atomic Treatment Present: Zontar: The Thing from Venus	2012-11-15	 
+4 x 710	Ralph, Rick and Roxie resent: The City of the Dead	2011-10-14	 
+4 x 711	Ice on Mars: Pack of Briefs Volume 2	2011-04-15	 
+4 x 712	Quiptracks: Abduction	2013-07-28	 
+4 x 713	Distorted View: Child Bride	2012-11-28	 
+4 x 714	Cinester Theater: Forrest Gump	2013-09-19	 
+4 x 715	Quiptracks: Paycheck		 
+4 x 716	Cinester Theater: Willow	2014-01-13	 
+4 x 717	Cinemasochism: The Monster Known as V.D.	2014-01-20	  
+4 x 718	Corny Commentaries - Health: Your Posture	2013-12-26	  
+4 x 719	Cinester Theater: Child's Play	2014-02-11	  
+4 x 720	The Phantom Ship by Toast and Rice	2013-04-13	 
+4 x 721	Dead Men Walk by Toast and Rice	2013-04-07	  
+4 x 722	Nailsin Riffs: The Last Woman on Earth	2013-10-17	 
+4 x 723	Drawback Productions: Girls Just Want to Have Fun	2012-10-12	 
+4 x 724	Drawback Productions: Highway to Heaven - Dust Child	2011-07-08	 
+4 x 725	Drawback Productions: One Step Beyond-Epilogue	2011-10-01	 
+4 x 726	FilmRoasters: Rage War		 
+4 x 727	J.C.Walsh - Drive Angry in 2D	2011-07-13	 
+4 x 728	Phantom Savage: A goofy Movie	2011-10-10	 
+4 x 729	Mikelesq: Sisters of Death	2013-02-02	 
+4 x 730	The Ghosts on the Big Brown Couch: Air Collision	2013-02-27	 
+4 x 731	Ice on Mars: The Wheat Farmer (Second Edition)	2010-11-30	  
+4 x 732	How Honest Are You? by Toast and Rice	2014-04-20	  
+4 x 733	Insomnia Theater Express: Emergency School Bus Evacuation (1976)	2013-02-03	 
+4 x 734	Rabbit Ears: Sherlock Holmes and the Secret of Double Dating	2013-09-30	 
+4 x 735	Thinking with Josh Head Presents: Eden of the East ep.1	2013-02-09	 
+4 x 736	Thinking with Josh Head Presents: Yu YU Hakusho ep.1	2013-07-12	 
+4 x 737	Fire Roasted Films vs. Batman & Robin LIVE!	2013-02-11	 
+4 x 738	Ti Rich The Impersonator: Sponge Bob Square Pants: The Movie	2013-02-26	 
+4 x 739	Infectious: Is It Worth Your Life	2013-05-14	 
+4 x 740	FilmRoasters: Somewhere, Tomorrow	2012-01-15	 
+4 x 741	Bed Time Story Productions: Soylent Green	2014-03-17	 
+4 x 742	Thinking with Josh Head Presents: Sakura Wars ep.1	2013-07-12	 
+4 x 743	The Sonic Screwballs do Doctor Who - Daleks in Manhattan	2013-04-09	 
+4 x 744	Rabbit Ears: And Then There Were....CAT!	2014-04-10	 
+4 x 745	Spring-Loaded Wit presents: Messiah of Evil	2013-04-21	 
+4 x 746	Charles Jones Presents : Mortal Kombat!	2013-05-16	 
+4 x 747	Hail Riffs: Are You Popular	2013-06-04	 
+4 x 748	Thinking with Josh Head Presents: Princess Jellyfish ep. 1	2013-07-12	 
+4 x 749	SRD's Movie Night: Jesse James Meets Frankenstein's Daughter	2013-07-01	 
+4 x 750	Rabbit Ears: Bela Lugosi Clones a Brooklyn Gorilla	2013-09-30	 
+4 x 751	Toast and Rice: The Fat Spy	2013-12-27	 
+4 x 752	Oh, the Humanity Presents: Superman! A Max Fleischer Cartoon	2013-08-11	 
+4 x 753	Rabbit Ears: Basketball Fixation	2013-10-15	 
+4 x 754	J.D. Martell and Peter Hildebrand: The Rock	2014-05-20	 
+4 x 755	Nailsin Riffs The Green Hornet Chapter Two	2013-09-06	 
+4 x 756	Nailsin Riffs: Batman And Robin Chapter One	2013-09-22	 
+4 x 757	Nailsin Riffs: Batman And Robin Chapter Two	2013-09-08	 
+4 x 758	Nailsin Riffs: Batman And Robin Chapter Three	2013-09-08	 
+4 x 759	Nailsin Riffs: Batman And Robin Chapter Four	2013-09-14	 
+4 x 760	Nailsin Riffs: Batman And Robin Chapter Five	2013-09-14	 
+4 x 761	Nailsin Riffs: Batman And Robin Chapter Six	2013-09-15	 
+4 x 762	Ghosts on the Big Brown Couch: Dracula and His Vampire Brides	2013-09-22	 
+4 x 763	Nailsin Riffs: The Last Man on Earth	2013-09-30	 
+4 x 764	Toast and Rice: Once and Forever	2013-10-11	 
+4 x 765	Rabbit Ears: Zontar the Thing from the Garage Sale	2013-10-15	 
+4 x 766	Rabbit Ears Short #7: Hemp For Victory!	2013-10-26	 
+4 x 767	Ghosts on the Big Brown Couch: Episode 5 The Naked Witch	2013-10-27	 
+4 x 768	Rabbit Ears: Sherlock Holmes and the Search for Green Jobs	2013-11-07	 
+4 x 769	Rabbit Ears Short #8: School Rules	2013-11-15	 
+4 x 770	Rabbit Ears: Zip Codes!	2013-11-29	 
+4 x 771	Rabbit Ears Short #10: This Is Coffee	2013-12-08	 
+4 x 772	Drawback Productions: Fast Five	2014-01-23	 
+4 x 773	Ghosts on the Big Brown Couch: Episode 6 Children Shouldn't Play with Dead Things	2013-12-17	 
+4 x 774	Josh Bolotsky and Matthew Filipowicz present Atlas Riffed	2013-12-17	 
+4 x 775	Toast and Rice: A Christmas Fantasy	2014-01-13	 
+4 x 776	Team Swizzlebeef: Ricky Raccoon Shows the Way	2013-12-31	 
+4 x 777	Nailsin Riffs: Batman And Robin Chapter Seven	2014-01-04	 
+4 x 778	Rabbit Ears: Dance-O-Rama	2014-01-30	 
+4 x 779	Drawback Productions: Highway to Heaven - Birds of a Feather	2014-01-23	 
+4 x 780	Rabbit Ears Short #11: Accidents Don't Just Happen	2014-02-09	 
+4 x 781	The One Man Band: The Asylum's Legion of the Dead	2014-04-02	 
+4 x 782	That's Cool, That's Trash: Bloody Pit of Horror	2014-05-23	 
+4 x 783	Rabbit Ears: Destroy All Pizza	2014-04-12	 
+4 x 784	Nailsin Riffs: Batman And Robin Chapter Eight	2014-04-10	 
+4 x 785	FireRiffs: Terminator 2	2014-04-10	 
+4 x 786	That's Cool, That's Trash: Invasion of the Bee Girls	2014-05-31	 
+4 x 787	Two Broke Rednecks: Duck and Cover	2014-04-16	 
+4 x 788	Two Broke Rednecks: Old Commercials	2014-04-17	 
+4 x 789	Rabbit Ears: Dragnet on 33rd Street	2014-04-19	 
+4 x 790	Nailsin Riffs: Flash Gordon:Space Soldiers Conquers the Universe Chapter One	2014-04-27	 
+4 x 791	Atomic Treatment: Battle of the Worlds	2014-05-01	 
+4 x 792	Rabbit Ears Short #12: The Big Board	2014-05-04	 
+4 x 793	OneWallCinema: Cinco De Mustache Shaving	2014-05-23	 
+4 x 794	Love The One You Riff: Contracted	2014-05-28	 
+4 x 795	Chick Riffs: The Forger	2014-05-26	 
+4 x 796	Cinester Theater: Frozen	2014-06-20	  
+4 x 797	Rabbit Ears: Dick Tracy Might Be Pregnant	2014-06-06	 
+4 x 798	GCleph Productions: The Devil Bat	2014-06-21	 
+4 x 799	GCleph Productions: Duck and Cover	2014-06-21	 
+4 x 800	Rabbit Ears Short #13: The Brink of Disaster (part 1)	2014-06-21	 
+4 x 801	Drawback Productions: Highway to Heaven - The Torch	2014-04-06	 
+4 x 802	Josh Head: Ray Gun Rebecca	2014-07-13	 
+4 x 803	Bald Move: Star Trek: TNG - Justice	2014-07-11	 
+4 x 804	SRD's Movie Night: The Alphabet Conspiracy	2014-07-15	 
+4 x 805	Rabbit Ears Short #14: The Brink of Disaster (part 2)	2014-07-16	 
+4 x 806	Austin, Lucas and Shane: The Wickerman	2014-08-04	 
+4 x 807	Nailsin Riffs: Batman And Robin Chapter Nine	2014-07-19	 
+4 x 808	Nailsin Riffs: Flash Gordon:Space Soldiers Conquer the Universe, Chapter 2	2014-07-21	 
+4 x 809	Widow's Hill Notes to Dark Shadows, Episodes 11-20	2014-08-07	 
+4 x 810	Rabbit Ears: Murder on Flight 502	2014-08-25	 
+4 x 811	Austin, Alex and Shane: Max Keeble's Big Move!	2014-08-04	 
+4 x 812	The Anime Riffer: Legend of Korra: Episodes 1&2	2014-08-10	 
+4 x 813	Austin and Shane: Batman and Robin!	2014-08-18	 
+4 x 814	Ronin Fox Trax: Freddy's Dead: The Final Nightmare	2014-08-25	 
+4 x 815	Toast and Rice: Good Against Evil	2011-09-19	 
+4 x 816	Toast and Rice: Let's Talk Turkey		 
+4 x 817	Quiptracks: Fury of the Cocoon		 
+4 x 818	Ice on Mars: Soapbox Derby		 
+4 x 819	Fun with Flicks: Monster Maker		 
+4 x 820	Fun with Shorts: Volume 6		 
+4 x 821	That Guy Riffs: The Bully		 
+4 x 822	That Guy Riffs: The Snob		 
+4 x 823	That Guy Riffs: The Good Loser		 
+4 x 824	That Guy Riffs: Lunchroom Manners		 
+4 x 825	Raven's Riffs - Hollowman		 
+4 x 826	Netriffs by Sid and Shadow: Atlantis The Lost Empire	2015-03-26	 
+4 x 827	MMIP Riffs: Amityville 2: The Possession	2015-03-26	 
+4 x 828	Toast and Rice: The Vampire Bat	2015-03-26	 
+4 x 829	Rabbit Ears Short#5: Peg Leg Pedro	2015-03-26	 
+4 x 830	That's Cool, That's Trash: Curse of the Swamp Creature	2015-03-26	 
+4 x 831	Toast and Rice: Silent Night, Bloody Night	2015-07-25	 
+4 x 832	The Turkey Shoot with Scott Zee: Hitler: Dead or Alive		 
+4 x 833	The One Man Band: Legion	2011-10-31	 
+4 x 834	Drawback Productions: Meltdown	2015-11-25	 
+4 x 835	Quiptracks: The Covenant	2013-10-30	 
+4 x 836	Quiptracks: Ghost Rider	2012-06-02	 
+4 x 837	Cinester Theater: The Karate Kid		 
+4 x 838	Quiptracks: The Lake House		 
+4 x 839	Ice on Mars & QuipTracks: Star Trek Voyager: The 37s		 
+4 x 840	Quiptracks: Jumper		 
+4 x 841	Cinester Theater: Robocop (2014)		 
+4 x 842	In Time		 
+4 x 843	Cinester Theatre: Pretty Woman		 
+4 x 844	Ice on Mars & QuipTracks: Star Trek Voyager: Initiations		 
+4 x 845	Ice on Mars & QuipTracks: Star Trek Voyager: Projections		 
+4 x 846	Ice on Mars & QuipTracks: Star Trek Voyager: Elogium		 
+4 x 847	Hor-RIFF-ic Productions: Phantasm	2017-07-20	 
+4 x 848	Drawback Productions: Furious 7	2017-04-10	  
+4 x 849	ICWXP Victory Gardens		 
+4 x 850	ICWXP Soapy the Germ Fighter		 
+4 x 851	QuipTracks: In the Name of the King 2		 
+4 x 852	QuipTracks: The Forgotten		 
+5 x 1   Total Riff Off: Killer Shrimp N' Friends	2014-04-05	  
+5 x 2   Total Riff Off: Demon Bat	2014-04-05	  
+5 x 3   Total Riff Off: Guy and a Goose	2014-04-05	  
+5 x 4   Total Riff Off: Man V. Monster	2014-12-16	  
+5 x 5   Total Riff Off: Animals Behaving Badly	2014-12-16	  
+5 x 6   Total Riff Off: Brazilian Bigfoot	2015-11-13	  
+6 x 1   RiffTrax Live: Plan 9 From Outer Space	2009-12-10	  
+6 x 2   RiffTrax Live: Christmas Shorts-stravaganza!	2010-03-17	  
+6 x 3   RiffTrax Live: Reefer Madness	2011-05-17	  
+6 x 4   RiffTrax Live: House on Haunted Hill	2011-05-17	  
+6 x 5   RiffTrax Live: Jack the Giant Killer	2012-05-01	  
+6 x 6   RiffTrax Live: Manos the Hands of Fate	2012-08-16	  
+6 x 7   RiffTrax Live: Birdemic: Shock and Terror	2012-10-25	  
+6 x 8   RiffTrax Live: Starship Troopers	2013-08-15	  
+6 x 9   RiffTrax Live: Night of the Living Dead	2013-10-24	  
+6 x 10	RiffTrax Live: Santa Claus Conquers the Martians	2013-12-05	  
+6 x 11	RiffTrax Live: Sharknado	2014-07-10	  
+6 x 12	RiffTrax Live: Godzilla	2014-08-14	  
+6 x 13	RiffTrax Live: Anaconda	2014-10-30	  
+6 x 14	RiffTrax Live: Santa Claus	2014-12-04	  
+6 x 15	RiffTrax Live: The Room	2015-05-06	  
+6 x 16	RiffTrax Live: Sharknado 2: The Second One	2015-07-09	  
+6 x 17	RiffTrax Live: Miami Connection	2015-10-01	  
+6 x 18	RiffTrax Live: Santa and The Ice Cream Bunny	2015-12-03	  
+6 x 19	RiffTrax Live: Time Chasers	2016-05-05	  
+6 x 20	RiffTrax Live: MST3K Reunion Show	2016-06-28	  
+Special	RiffTrax Live: Measuring Man	2016-03-31	 
+6 x 21	RiffTrax Live: Mothra	2016-08-18	 
+6 x 22	RiffTrax Live: Carnival of Souls	2016-10-27	 
+6 x 23	RiffTrax Live: Samurai Cop	2017-04-13	  
+6 x 24	RiffTrax Live: Summer Shorts Beach Party	2017-06-15	  
+6 x 25	RiffTrax Live: Doctor Who - The Five Doctors	2017-08-17	  
